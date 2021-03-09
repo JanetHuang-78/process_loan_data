@@ -1,0 +1,9 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6805,A00008330,45024,48,938,C,2016,12,21,2016-12-21,2016-12-21,1,debt_consolidation,Interest rate:3.06%; Monthly payment:232
+7233,A00005196,115812,36,3217,C,2016,12,25,2016-12-25,2016-12-25,1,home,interest rate:3.72%; monthly payment:185
+7130,A00005944,123408,24,5142,A,2016,12,11,2016-12-11,2016-12-11,1,home,interest rate: 3.54%; monthly payment: $710
+7308,A00001888,129408,24,5392,A,2016,12,27,2016-12-27,2016-12-27,1,home,interest rate:3.59%; Monthly payment:$796
+6818,A00008899,155616,48,3242,C,2016,12,12,2016-12-12,2016-12-12,1,home,interest rate: 3.77%; Monthly payment: 228
+5591,A00007424,155616,48,3242,C,2016,12,4,2016-12-04,2016-12-04,18,home,interest rate:3.94%; Monthly payment:$295
+5625,A00006289,222180,60,3703,D,2016,12,15,2016-12-15,2016-12-15,59,home,interest rate: 3.5%; Monthly payment: $361
+7154,A00007636,417600,60,6960,C,2016,12,5,2016-12-05,2016-12-05,1,home,interest rate:3.32%; Monthly payment:785

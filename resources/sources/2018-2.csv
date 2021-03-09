@@ -1,0 +1,15 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6730,A00002725,93036,12,7753,C,2018,2,15,2018-02-15,2018-02-15,1,home,interest rate:3.93%; Monthly payment:327
+6866,A00002728,122472,24,5103,C,2018,2,5,2018-02-05,2018-02-05,1,home,Interest rate:3.85%; monthly payment:$124
+7151,A00007133,133800,24,5575,C,2018,2,18,2018-02-18,2018-02-18,1,home,Interest rate: 3.02%; Monthly payment: $416
+5765,A00005428,153936,24,6414,C,2018,2,10,2018-02-10,2018-02-10,1,home,Interest rate:3.47%; Monthly payment:$936
+5124,A00002165,156096,36,4336,C,2018,2,12,2018-02-12,2018-02-12,64,home,Interest rate: 3.75%; monthly payment: $635
+6633,A00006505,160656,24,6694,C,2018,2,5,2018-02-05,2018-02-05,1,home,interest rate: 3.52%; Monthly payment: 858
+5140,A00000303,178500,60,2975,C,2018,2,24,2018-02-24,2018-02-24,64,home,interest rate:3.97%; monthly payment:852
+6442,A00005572,194160,48,4045,C,2018,2,8,2018-02-08,2018-02-08,1,home,Interest rate:3.76%; monthly payment:$320
+7171,A00010799,196224,48,4088,C,2018,2,24,2018-02-24,2018-02-24,1,home,interest rate: 3.98%; monthly payment: 124
+6861,A00006738,215040,60,3584,C,2018,2,28,2018-02-28,2018-02-28,1,home,interest rate: 3.4%; Monthly payment: $119
+6568,A00010630,220440,60,3674,C,2018,2,25,2018-02-25,2018-02-25,1,home,Interest rate:3.2%; Monthly payment:806
+5889,A00008321,321240,60,5354,C,2018,2,9,2018-02-09,2018-02-09,1,home,interest rate: 3.94%; Monthly payment: $784
+6926,A00004467,374760,60,6246,C,2018,2,7,2018-02-07,2018-02-07,1,home,Interest rate:3.78%; Monthly payment:350
+5491,A00002343,428784,48,8933,C,2018,2,13,2018-02-13,2018-02-13,46,home,Interest rate: 3.59%; monthly payment: 657

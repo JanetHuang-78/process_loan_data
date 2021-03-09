@@ -1,0 +1,22 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6970,A00011349,31620,60,527,C,2017,6,17,2017-06-17,2017-06-17,1,debt_consolidation,interest rate:3.65%; monthly payment:716
+5932,A00009104,33348,12,2779,A,2017,6,18,2017-06-18,2017-06-18,1,debt_consolidation,Interest rate:3.53%; monthly payment:$197
+6310,A00007861,34572,12,2881,A,2017,6,17,2017-06-17,2017-06-17,1,debt_consolidation,Interest rate: 3.99%; Monthly payment: $867
+6621,A00005283,42900,12,3575,A,2017,6,14,2017-06-14,2017-06-14,1,debt_consolidation,interest rate: 3.7%; Monthly payment: 567
+6959,A00002228,59448,24,2477,D,2017,6,30,2017-06-30,2017-06-30,1,home,Interest rate:3.64%; monthly payment:$355
+7119,A00005891,86880,12,7240,A,2017,6,2,2017-06-02,2017-06-02,1,home,Interest rate:3.76%; monthly payment:$907
+6278,A00000132,87360,24,3640,C,2017,6,10,2017-06-10,2017-06-10,1,home,Interest rate: 3.34%; Monthly payment: 792
+6763,A00008321,88272,48,1839,C,2017,6,19,2017-06-19,2017-06-19,1,home,interest rate: 3.82%; monthly payment: 603
+5253,A00007542,100080,48,2085,C,2017,6,3,2017-06-03,2017-06-03,64,home,Interest rate: 3.62%; Monthly payment: 162
+6313,A00000378,150912,36,4192,C,2017,6,15,2017-06-15,2017-06-15,1,home,Interest rate:3.28%; monthly payment:$742
+6908,A00010451,188616,24,7859,C,2017,6,8,2017-06-08,2017-06-08,1,home,Interest rate: 3.91%; Monthly payment: 130
+5674,A00009828,207264,48,4318,C,2017,6,10,2017-06-10,2017-06-10,1,home,interest rate:3.51%; monthly payment:674
+7255,A00001978,213300,60,3555,C,2017,6,9,2017-06-09,2017-06-09,1,home,Interest rate: 3.58%; monthly payment: 657
+7049,A00007240,233424,36,6484,C,2017,6,24,2017-06-24,2017-06-24,1,home,Interest rate: 3.45%; Monthly payment: $376
+6851,A00004803,272220,60,4537,D,2017,6,3,2017-06-03,2017-06-03,1,home,interest rate: 3.98%; monthly payment: $781
+6877,A00002334,285240,60,4754,C,2017,6,19,2017-06-19,2017-06-19,1,home,Interest rate:3.21%; monthly payment:$337
+6435,A00009633,288720,48,6015,C,2017,6,16,2017-06-16,2017-06-16,1,home,Interest rate: 3.79%; Monthly payment: 483
+7085,A00002754,305424,48,6363,C,2017,6,19,2017-06-19,2017-06-19,1,home,interest rate: 3.35%; monthly payment: 534
+6695,A00008523,309660,60,5161,C,2017,6,4,2017-06-04,2017-06-04,1,home,interest rate: 3.11%; Monthly payment: $522
+5174,A00009179,385104,48,8023,C,2017,6,13,2017-06-13,2017-06-13,64,home,interest rate: 3.54%; monthly payment: 991
+5486,A00011021,466608,48,9721,C,2017,6,13,2017-06-13,2017-06-13,46,home,interest rate: 3.01%; monthly payment: 992

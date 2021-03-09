@@ -1,0 +1,10 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6659,A00008027,56100,60,935,C,2016,2,20,2016-02-20,2016-02-20,1,home,interest rate:3.09%; Monthly payment:$973
+6027,A00006040,61656,24,2569,B,2016,2,10,2016-02-10,2016-02-10,1,home,interest rate: 3.89%; Monthly payment: 831
+5750,A00010001,63252,12,5271,A,2016,2,8,2016-02-08,2016-02-08,1,home,Interest rate:3.72%; Monthly payment:$490
+6303,A00003608,72408,24,3017,B,2016,2,12,2016-02-12,2016-02-12,1,home,interest rate:3.04%; monthly payment:471
+7213,A00008085,113544,36,3154,C,2016,2,13,2016-02-13,2016-02-13,1,home,interest rate: 3.48%; monthly payment: 173
+5610,A00009031,123216,48,2567,C,2016,2,24,2016-02-24,2016-02-24,18,home,interest rate: 3.37%; monthly payment: $155
+6013,A00001888,128988,36,3583,D,2016,2,3,2016-02-03,2016-02-03,1,home,Interest rate: 3.6%; monthly payment: 457
+6175,A00000038,290700,60,4845,D,2016,2,21,2016-02-21,2016-02-21,1,home,Interest rate: 3.72%; Monthly payment: 177
+5563,A00007606,380160,60,6336,C,2016,2,29,2016-02-29,2016-02-29,18,home,Interest rate:3.97%; monthly payment:$363

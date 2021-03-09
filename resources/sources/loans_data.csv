@@ -1,0 +1,683 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+5657,A00009750,4980,12,415,A,2014,7,5,2014-07-05,2014-07-05,59,car,Interest rate: 3.3%; Monthly payment: $643
+6234,A00006434,5148,12,429,C,2018,5,28,2018-05-28,2018-05-28,1,car,Interest rate:3.72%; Monthly payment:$205
+6699,A00004725,7656,24,319,A,2014,3,30,2014-03-30,2014-03-30,1,car,interest rate: 3.34%; monthly payment: $282
+6688,A00005650,8616,24,359,C,2017,9,26,2017-09-26,2017-09-26,1,car,interest rate: 3.84%; Monthly payment: $303
+6312,A00008645,10944,36,304,C,2018,5,17,2018-05-17,2018-05-17,1,car,Interest rate: 3.04%; monthly payment: $520
+6019,A00008564,11400,12,950,A,2016,7,25,2016-07-25,2016-07-25,1,car,Interest rate: 3.59%; Monthly payment: $996
+6229,A00009677,11736,24,489,A,2014,10,2,2014-10-02,2014-10-02,1,car,interest rate: 3.6%; monthly payment: 241
+6297,A00010215,17508,12,1459,A,2014,10,25,2014-10-25,2014-10-25,1,car,interest rate:3.13%; monthly payment:940
+5463,A00005632,17952,12,1496,C,2018,10,6,2018-10-06,2018-10-06,59,car,Interest rate: 3.98%; monthly payment: $224
+6942,A00009493,18324,12,1527,A,2017,7,16,2017-07-16,2017-07-16,1,car,interest rate: 3.3%; monthly payment: $456
+5740,A00008784,18564,12,1547,A,2015,4,2,2015-04-02,2015-04-02,1,debt_consolidation,interest rate: 3.7%; monthly payment: 883
+7230,A00003005,18720,60,312,C,2017,4,2,2017-04-02,2017-04-02,1,car,interest rate:3.92%; Monthly payment:$795
+7034,A00008680,19044,36,529,C,2016,7,11,2016-07-11,2016-07-11,1,car,Interest rate: 3.59%; monthly payment: 950
+5651,A00008772,19248,12,1604,A,2017,12,8,2017-12-08,2017-12-08,59,car,Interest rate:3.22%; Monthly payment:832
+5429,A00004081,20196,36,561,C,2016,7,18,2016-07-18,2016-07-18,59,car,interest rate:3.54%; monthly payment:655
+5922,A00000790,20220,12,1685,A,2015,8,5,2015-08-05,2015-08-05,1,car,Interest rate:3.94%; Monthly payment:$957
+6043,A00007957,20352,48,424,C,2016,1,11,2016-01-11,2016-01-11,1,debt_consolidation,Interest rate: 3.7%; monthly payment: $223
+6591,A00004337,20832,48,434,C,2015,2,2,2015-02-02,2015-02-02,1,car,Interest rate: 3.67%; monthly payment: 257
+6721,A00007674,21072,24,878,A,2014,1,21,2014-01-21,2014-01-21,1,car,interest rate: 3.7%; monthly payment: 580
+5980,A00001967,21396,12,1783,A,2015,8,18,2015-08-18,2015-08-18,1,car,Interest rate:3.26%; Monthly payment:956
+6600,A00006924,21852,36,607,A,2015,10,8,2015-10-08,2015-10-08,1,car,interest rate:3.49%; Monthly payment:$794
+7121,A00006434,21924,36,609,A,2013,11,10,2013-11-10,2013-11-10,1,debt_consolidation,Interest rate: 3.16%; monthly payment: 286
+7072,A00005735,22104,12,1842,C,2018,1,27,2018-01-27,2018-01-27,1,debt_consolidation,Interest rate: 3.24%; monthly payment: 889
+5103,A00006062,12540,12,1045,A,2017,11,28,2017-11-28,2017-11-28,64,debt_consolidation,interest rate: 3.31%; Monthly payment: $257
+6539,A00004746,12792,12,1066,C,2018,7,11,2018-07-11,2018-07-11,1,car,interest rate:3.92%; Monthly payment:$871
+5718,A00001819,14028,12,1169,A,2017,9,1,2017-09-01,2017-09-01,1,car,Interest rate: 3.79%; monthly payment: $675
+6064,A00009201,14628,12,1219,A,2014,8,4,2014-08-04,2014-08-04,1,car,Interest rate:3.3%; monthly payment:294
+5897,A00004415,15192,24,633,A,2016,9,25,2016-09-25,2016-09-25,1,car,interest rate:3.14%; monthly payment:$810
+5599,A00004746,15420,12,1285,A,2015,3,21,2015-03-21,2015-03-21,18,car,Interest rate:3.85%; monthly payment:$887
+6852,A00008558,16032,48,334,C,2018,11,10,2018-11-10,2018-11-10,1,car,Interest rate: 3.28%; Monthly payment: $846
+6377,A00008558,17184,12,1432,A,2017,3,17,2017-03-17,2017-03-17,1,debt_consolidation,interest rate:3.11%; Monthly payment:$145
+5147,A00000309,22260,60,371,C,2018,5,21,2018-05-21,2018-05-21,64,debt_consolidation,Interest rate: 3.34%; monthly payment: $275
+6052,A00002227,22356,36,621,C,2018,3,23,2018-03-23,2018-03-23,1,car,Interest rate:3.05%; Monthly payment:$866
+5382,A00008533,22932,36,637,C,2017,3,17,2017-03-17,2017-03-17,59,car,Interest rate:3.03%; Monthly payment:$682
+6354,A00004550,22968,36,638,C,2016,10,23,2016-10-23,2016-10-23,1,car,Interest rate:3.55%; monthly payment:$847
+5754,A00002753,23052,12,1921,A,2014,9,28,2014-09-28,2014-09-28,1,home_improvement,Interest rate:3.6%; Monthly payment:719
+6878,A00000873,23184,12,1932,A,2017,1,24,2017-01-24,2017-01-24,1,debt_consolidation,interest rate:3.99%; Monthly payment:$104
+5384,A00007815,23328,12,1944,C,2018,3,7,2018-03-07,2018-03-07,59,car,interest rate: 3.2%; Monthly payment: $553
+7139,A00001270,23412,12,1951,C,2018,1,22,2018-01-22,2018-01-22,1,debt_consolidation,Interest rate:3.62%; Monthly payment:$250
+5229,A00011327,23520,12,1960,A,2017,9,6,2017-09-06,2017-09-06,64,home_improvement,Interest rate: 3.85%; monthly payment: $767
+5723,A00005572,23628,12,1969,A,2014,9,10,2014-09-10,2014-09-10,1,debt_consolidation,interest rate: 3.69%; monthly payment: $711
+7187,A00007815,24180,60,403,C,2017,12,24,2017-12-24,2017-12-24,1,car,interest rate: 3.43%; monthly payment: $866
+5130,A00001374,24312,12,2026,A,2014,5,11,2014-05-11,2014-05-11,64,debt_consolidation,Interest rate: 3.71%; Monthly payment: $891
+5479,A00000105,24516,12,2043,A,2014,1,10,2014-01-10,2014-01-10,59,home_improvement,interest rate:3.27%; monthly payment:$246
+5584,A00011244,24792,24,1033,C,2017,12,6,2017-12-06,2017-12-06,18,debt_consolidation,interest rate: 3.87%; monthly payment: $690
+6407,A00001888,25944,24,1081,A,2014,5,26,2014-05-26,2014-05-26,1,home_improvement,interest rate: 3.48%; Monthly payment: 580
+6242,A00002762,26208,36,728,C,2017,10,22,2017-10-22,2017-10-22,1,debt_consolidation,Interest rate:3.21%; monthly payment:592
+5005,A00003489,27456,12,2288,A,2017,4,10,2017-04-10,2017-04-10,1,debt_consolidation,interest rate:3.25%; monthly payment:639
+6578,A00007632,27984,12,2332,A,2015,12,11,2015-12-11,2015-12-11,1,debt_consolidation,interest rate: 3.18%; Monthly payment: $491
+6227,A00010280,28248,24,1177,A,2015,3,4,2015-03-04,2015-03-04,1,debt_consolidation,interest rate: 3.34%; Monthly payment: $262
+6865,A00003556,29448,12,2454,B,2016,9,11,2016-09-11,2016-09-11,1,debt_consolidation,interest rate: 3.55%; Monthly payment: 537
+6676,A00006688,29784,24,1241,A,2015,6,13,2015-06-13,2015-06-13,1,debt_consolidation,interest rate:3.95%; Monthly payment:882
+5620,A00007607,30012,12,2501,C,2018,6,16,2018-06-16,2018-06-16,18,home_improvement,interest rate: 3.88%; monthly payment: $674
+5311,A00006363,30060,60,501,C,2016,6,15,2016-06-15,2016-06-15,64,debt_consolidation,Interest rate: 3.67%; monthly payment: $843
+6501,A00009928,30276,12,2523,B,2016,4,29,2016-04-29,2016-04-29,1,home_improvement,interest rate: 3.73%; Monthly payment: $924
+4961,A00007559,30276,12,2523,B,2016,4,29,2016-04-29,2016-04-29,1,debt_consolidation,Interest rate:3.95%; monthly payment:$870
+6502,A00004533,30276,12,2523,A,2017,12,8,2017-12-08,2017-12-08,1,debt_consolidation,Interest rate:3.54%; monthly payment:$407
+4962,A00001787,30276,12,2523,A,2017,12,8,2017-12-08,2017-12-08,1,debt_consolidation,interest rate:3.44%; monthly payment:461
+7200,A00004413,31140,60,519,C,2018,7,11,2018-07-11,2018-07-11,1,debt_consolidation,interest rate:3.18%; monthly payment:908
+6185,A00006902,31176,24,1299,A,2015,11,28,2015-11-28,2015-11-28,1,debt_consolidation,Interest rate: 3.23%; Monthly payment: 400
+5576,A00002350,31248,12,2604,A,2014,12,21,2014-12-21,2014-12-21,18,debt_consolidation,Interest rate:3.88%; monthly payment:810
+7110,A00010973,31260,12,2605,C,2018,1,21,2018-01-21,2018-01-21,1,home_improvement,Interest rate: 3.0%; Monthly payment: $103
+6970,A00011349,31620,60,527,C,2017,6,17,2017-06-17,2017-06-17,1,debt_consolidation,interest rate:3.65%; monthly payment:716
+6546,A00001498,31728,24,1322,A,2015,3,27,2015-03-27,2015-03-27,1,home_improvement,interest rate:3.85%; Monthly payment:$534
+6130,A00009493,32640,48,680,C,2016,7,18,2016-07-18,2016-07-18,1,debt_consolidation,interest rate:3.72%; monthly payment:$972
+6758,A00007485,33144,12,2762,A,2017,7,29,2017-07-29,2017-07-29,1,debt_consolidation,interest rate:3.9%; monthly payment:$728
+5932,A00009104,33348,12,2779,A,2017,6,18,2017-06-18,2017-06-18,1,debt_consolidation,Interest rate:3.53%; monthly payment:$197
+6764,A00007607,33984,48,708,C,2015,8,26,2015-08-26,2015-08-26,1,debt_consolidation,Interest rate:3.58%; monthly payment:$835
+6310,A00007861,34572,12,2881,A,2017,6,17,2017-06-17,2017-06-17,1,debt_consolidation,Interest rate: 3.99%; Monthly payment: $867
+6643,A00005196,35856,24,1494,C,2018,1,18,2018-01-18,2018-01-18,1,debt_consolidation,interest rate: 3.53%; Monthly payment: 926
+5207,A00002994,35904,48,748,C,2017,2,28,2017-02-28,2017-02-28,64,home_improvement,Interest rate: 3.92%; Monthly payment: 628
+7008,A00010297,36168,12,3014,A,2015,9,22,2015-09-22,2015-09-22,1,debt_consolidation,interest rate:3.03%; monthly payment:340
+6682,A00002580,36204,12,3017,D,2018,3,30,2018-03-30,2018-03-30,1,home_improvement,Interest rate:3.99%; monthly payment:256
+6929,A00002035,36396,12,3033,A,2015,5,8,2015-05-08,2015-05-08,1,debt_consolidation,interest rate: 3.69%; monthly payment: 705
+6306,A00007819,36684,12,3057,A,2014,12,20,2014-12-20,2014-12-20,1,debt_consolidation,interest rate:3.92%; Monthly payment:$395
+7096,A00003629,37812,12,3151,C,2018,9,2,2018-09-02,2018-09-02,1,home_improvement,interest rate:3.18%; Monthly payment:$265
+6362,A00003050,37908,12,3159,A,2015,10,31,2015-10-31,2015-10-31,1,debt_consolidation,interest rate:3.0%; monthly payment:$142
+5332,A00000915,37944,36,1054,C,2018,1,29,2018-01-29,2018-01-29,64,home_improvement,interest rate: 3.23%; Monthly payment: $268
+6820,A00007156,38148,12,3179,A,2013,12,16,2013-12-16,2013-12-16,1,debt_consolidation,interest rate:3.8%; monthly payment:$842
+6321,A00009510,38496,12,3208,C,2018,10,8,2018-10-08,2018-10-08,1,home_improvement,interest rate: 3.48%; Monthly payment: $116
+5358,A00000675,38520,12,3210,A,2017,1,21,2017-01-21,2017-01-21,59,debt_consolidation,Interest rate:3.93%; Monthly payment:$485
+5634,A00007632,39024,12,3252,A,2017,5,1,2017-05-01,2017-05-01,59,home_improvement,Interest rate: 3.8%; monthly payment: 681
+7294,A00007274,39168,24,1632,C,2018,9,27,2018-09-27,2018-09-27,1,debt_consolidation,Interest rate:3.82%; Monthly payment:$164
+6888,A00000067,39576,12,3298,A,2014,7,11,2014-07-11,2014-07-11,1,home_improvement,Interest rate:3.75%; Monthly payment:692
+6887,A00010148,39576,12,3298,A,2017,5,8,2017-05-08,2017-05-08,1,debt_consolidation,Interest rate: 3.09%; Monthly payment: 811
+5665,A00001318,40632,12,3386,C,2018,3,11,2018-03-11,2018-03-11,1,home_improvement,interest rate:3.68%; Monthly payment:436
+5582,A00010266,41256,12,3438,C,2018,4,17,2018-04-17,2018-04-17,18,debt_consolidation,Interest rate:3.24%; monthly payment:$363
+5808,A00000666,41856,48,872,C,2017,7,31,2017-07-31,2017-07-31,1,debt_consolidation,Interest rate: 3.87%; monthly payment: $291
+6895,A00005724,41904,12,3492,A,2014,9,19,2014-09-19,2014-09-19,1,debt_consolidation,interest rate:3.12%; Monthly payment:$501
+6535,A00004618,41952,12,3496,A,2015,11,2,2015-11-02,2015-11-02,1,home_improvement,interest rate:3.22%; Monthly payment:753
+5841,A00008225,41988,12,3499,C,2018,11,4,2018-11-04,2018-11-04,1,debt_consolidation,Interest rate:3.49%; Monthly payment:765
+6553,A00004858,42384,12,3532,C,2018,1,26,2018-01-26,2018-01-26,1,home_improvement,Interest rate:3.35%; monthly payment:374
+5046,A00005442,42816,12,3568,C,2018,9,9,2018-09-09,2018-09-09,70,debt_consolidation,Interest rate: 3.17%; monthly payment: $480
+6727,A00008926,42840,12,3570,A,2017,12,10,2017-12-10,2017-12-10,1,debt_consolidation,interest rate:3.2%; Monthly payment:561
+6621,A00005283,42900,12,3575,A,2017,6,14,2017-06-14,2017-06-14,1,debt_consolidation,interest rate: 3.7%; Monthly payment: 567
+6315,A00010361,43164,12,3597,A,2015,2,6,2015-02-06,2015-02-06,1,debt_consolidation,Interest rate:3.01%; monthly payment:$431
+5313,A00009403,43200,24,1800,C,2018,5,27,2018-05-27,2018-05-27,64,debt_consolidation,interest rate: 3.45%; Monthly payment: $377
+5693,A00010022,44088,24,1837,A,2015,8,1,2015-08-01,2015-08-01,1,debt_consolidation,Interest rate:3.39%; Monthly payment:917
+7087,A00006924,44304,24,1846,C,2017,2,20,2017-02-20,2017-02-20,1,home_improvement,Interest rate:3.61%; Monthly payment:368
+6144,A00009208,44376,12,3698,A,2016,8,9,2016-08-09,2016-08-09,1,debt_consolidation,interest rate: 3.25%; monthly payment: $385
+6137,A00004784,44628,12,3719,A,2016,4,10,2016-04-10,2016-04-10,1,home_improvement,Interest rate: 3.67%; monthly payment: $236
+6923,A00007523,44640,24,1860,C,2018,10,5,2018-10-05,2018-10-05,1,debt_consolidation,Interest rate:3.38%; monthly payment:$768
+5368,A00008129,44640,24,1860,C,2018,10,5,2018-10-05,2018-10-05,59,debt_consolidation,Interest rate:3.8%; monthly payment:$782
+7264,A00008411,44940,12,3745,A,2017,10,7,2017-10-07,2017-10-07,1,debt_consolidation,Interest rate: 3.45%; Monthly payment: $231
+5343,A00005269,44952,24,1873,C,2017,10,8,2017-10-08,2017-10-08,64,debt_consolidation,interest rate:3.77%; Monthly payment:889
+6805,A00008330,45024,48,938,C,2016,12,21,2016-12-21,2016-12-21,1,debt_consolidation,Interest rate:3.06%; Monthly payment:232
+5237,A00006649,45336,24,1889,A,2015,8,29,2015-08-29,2015-08-29,64,debt_consolidation,interest rate: 3.84%; monthly payment: 133
+6569,A00002343,45456,12,3788,C,2018,5,28,2018-05-28,2018-05-28,1,home_improvement,interest rate: 3.56%; Monthly payment: 153
+7172,A00009513,45720,12,3810,C,2018,5,7,2018-05-07,2018-05-07,1,debt_consolidation,Interest rate: 3.75%; monthly payment: 705
+7198,A00004949,45768,12,3814,A,2014,8,23,2014-08-23,2014-08-23,1,home_improvement,Interest rate:3.07%; Monthly payment:896
+7199,A00003448,45768,12,3814,A,2017,12,9,2017-12-09,2017-12-09,1,home,interest rate:3.72%; Monthly payment:455
+6944,A00001389,46176,48,962,C,2016,11,15,2016-11-15,2016-11-15,1,home,interest rate: 3.45%; monthly payment: 330
+5445,A00004626,46320,24,1930,A,2016,6,29,2016-06-29,2016-06-29,59,home,Interest rate: 3.78%; Monthly payment: 196
+6456,A00004727,47016,12,3918,A,2013,12,9,2013-12-09,2013-12-09,1,home,interest rate:3.51%; monthly payment:$954
+6745,A00009006,47304,24,1971,A,2015,4,10,2015-04-10,2015-04-10,1,home_improvement,interest rate: 3.45%; monthly payment: $720
+7242,A00001843,48096,24,2004,C,2017,10,23,2017-10-23,2017-10-23,1,debt_consolidation,Interest rate:3.62%; monthly payment:426
+5446,A00007815,48312,24,2013,C,2017,8,4,2017-08-04,2017-08-04,59,home_improvement,Interest rate:3.08%; Monthly payment:132
+5131,A00006397,48624,24,2026,A,2015,1,8,2015-01-08,2015-01-08,64,home,Interest rate: 3.06%; Monthly payment: 787
+6460,A00002962,48672,36,1352,A,2014,11,6,2014-11-06,2014-11-06,1,debt_consolidation,interest rate: 3.35%; monthly payment: $356
+5586,A00007181,48744,36,1354,C,2016,9,14,2016-09-14,2016-09-14,18,debt_consolidation,Interest rate: 3.0%; Monthly payment: 580
+6495,A00000276,49044,12,4087,C,2018,3,12,2018-03-12,2018-03-12,1,home_improvement,Interest rate: 3.24%; monthly payment: 535
+6650,A00007045,49320,12,4110,B,2014,2,17,2014-02-17,2014-02-17,1,debt_consolidation,Interest rate:3.87%; Monthly payment:$510
+6399,A00009236,49320,36,1370,C,2017,12,21,2017-12-21,2017-12-21,1,home_improvement,Interest rate: 3.2%; Monthly payment: 184
+5452,A00008505,49440,60,824,C,2016,4,29,2016-04-29,2016-04-29,59,home,interest rate: 3.55%; monthly payment: $628
+6464,A00003804,49488,24,2062,C,2018,4,16,2018-04-16,2018-04-16,1,home,interest rate:3.51%; monthly payment:$209
+6470,A00006792,49872,12,4156,C,2018,5,17,2018-05-17,2018-05-17,1,home,Interest rate: 3.49%; Monthly payment: $250
+6819,A00010954,50112,24,2088,C,2017,5,3,2017-05-03,2017-05-03,1,home,interest rate: 3.63%; monthly payment: $396
+5549,A00010105,50460,60,841,C,2014,7,16,2014-07-16,2014-07-16,25,home_improvement,interest rate:3.91%; Monthly payment:$186
+5172,A00001068,50976,36,1416,C,2018,4,16,2018-04-16,2018-04-16,64,debt_consolidation,interest rate:3.65%; Monthly payment:$919
+5856,A00007745,51360,12,4280,B,2017,8,9,2017-08-09,2017-08-09,1,home_improvement,Interest rate:3.0%; Monthly payment:$847
+5861,A00006678,51408,24,2142,A,2014,12,8,2014-12-08,2014-12-08,1,home,interest rate:3.5%; monthly payment:659
+6577,A00010630,51696,24,2154,A,2014,3,11,2014-03-11,2014-03-11,1,debt_consolidation,interest rate: 3.4%; Monthly payment: $742
+6903,A00010280,52128,24,2172,A,2014,6,4,2014-06-04,2014-06-04,1,debt_consolidation,interest rate:3.65%; Monthly payment:$489
+6855,A00004858,52236,36,1451,C,2018,3,1,2018-03-01,2018-03-01,1,home_improvement,Interest rate: 3.29%; Monthly payment: 720
+5221,A00005700,52512,12,4376,C,2018,12,5,2018-12-05,2018-12-05,64,debt_consolidation,interest rate: 3.78%; monthly payment: 204
+7284,A00004127,52788,12,4399,A,2013,9,15,2013-09-15,2013-09-15,1,home_improvement,interest rate:3.2%; Monthly payment:$258
+5134,A00002246,53076,12,4423,A,2017,2,2,2017-02-02,2017-02-02,64,home,interest rate:3.26%; Monthly payment:$283
+6037,A00002187,53232,48,1109,C,2017,5,4,2017-05-04,2017-05-04,1,home,Interest rate:3.21%; Monthly payment:633
+5398,A00011065,53472,12,4456,A,2017,11,4,2017-11-04,2017-11-04,59,home,interest rate: 3.57%; Monthly payment: 947
+7305,A00007401,54024,12,4502,A,2016,8,6,2016-08-06,2016-08-06,1,home,Interest rate: 3.1%; Monthly payment: $545
+7136,A00005256,54396,36,1511,C,2016,9,28,2016-09-28,2016-09-28,1,home_improvement,Interest rate: 3.81%; Monthly payment: 927
+6509,A00005313,55368,24,2307,A,2014,3,15,2014-03-15,2014-03-15,1,debt_consolidation,Interest rate: 3.89%; monthly payment: 948
+5346,A00010068,55632,24,2318,C,2018,12,6,2018-12-06,2018-12-06,64,home_improvement,Interest rate: 3.85%; Monthly payment: 109
+6659,A00008027,56100,60,935,C,2016,2,20,2016-02-20,2016-02-20,1,home,interest rate:3.09%; Monthly payment:$973
+6044,A00003834,57060,12,4755,C,2018,1,27,2018-01-27,2018-01-27,1,home,interest rate: 3.85%; monthly payment: 609
+7219,A00007607,57120,48,1190,C,2017,8,23,2017-08-23,2017-08-23,1,home,Interest rate: 3.2%; Monthly payment: 568
+5338,A00004462,57360,12,4780,B,2017,8,30,2017-08-30,2017-08-30,64,home,interest rate: 3.86%; monthly payment: $348
+6054,A00000276,58764,12,4897,C,2018,7,16,2018-07-16,2018-07-16,1,home,Interest rate:3.41%; Monthly payment:234
+5977,A00005269,59136,48,1232,C,2017,2,25,2017-02-25,2017-02-25,1,home,interest rate:3.21%; monthly payment:$155
+6959,A00002228,59448,24,2477,D,2017,6,30,2017-06-30,2017-06-30,1,home,Interest rate:3.64%; monthly payment:$355
+6956,A00002580,59448,24,2477,C,2017,11,9,2017-11-09,2017-11-09,1,home,interest rate: 3.19%; monthly payment: $137
+6253,A00005698,59760,24,2490,A,2014,11,4,2014-11-04,2014-11-04,1,home,Interest rate: 3.44%; monthly payment: $997
+7138,A00002622,60000,60,1000,C,2015,7,3,2015-07-03,2015-07-03,1,home,interest rate: 3.25%; monthly payment: $891
+6342,A00004803,60156,36,1671,B,2015,11,12,2015-11-12,2015-11-12,1,home,interest rate:3.17%; Monthly payment:744
+6223,A00000002,61056,48,1272,A,2014,11,3,2014-11-03,2014-11-03,1,home,interest rate:3.37%; Monthly payment:$312
+5909,A00007136,61320,60,1022,C,2018,1,3,2018-01-03,2018-01-03,1,home,interest rate: 3.56%; Monthly payment: $821
+5388,A00002728,61560,12,5130,A,2016,11,28,2016-11-28,2016-11-28,59,home,Interest rate:3.52%; monthly payment:$369
+6027,A00006040,61656,24,2569,B,2016,2,10,2016-02-10,2016-02-10,1,home,interest rate: 3.89%; Monthly payment: 831
+5750,A00010001,63252,12,5271,A,2016,2,8,2016-02-08,2016-02-08,1,home,Interest rate:3.72%; Monthly payment:$490
+6512,A00006738,63312,48,1319,A,2014,5,26,2014-05-26,2014-05-26,1,home,Interest rate: 3.08%; Monthly payment: 488
+6474,A00011141,63360,60,1056,C,2015,6,6,2015-06-06,2015-06-06,1,home_improvement,Interest rate:3.16%; monthly payment:214
+5782,A00000873,63576,12,5298,C,2018,1,4,2018-01-04,2018-01-04,1,debt_consolidation,Interest rate:3.68%; Monthly payment:$893
+6437,A00004033,63972,36,1777,D,2017,11,9,2017-11-09,2017-11-09,1,home_improvement,interest rate:3.83%; Monthly payment:141
+5287,A00004337,64224,24,2676,C,2018,1,26,2018-01-26,2018-01-26,64,home,interest rate: 3.46%; Monthly payment: $604
+5923,A00003916,64656,48,1347,C,2016,10,10,2016-10-10,2016-10-10,1,debt_consolidation,Interest rate: 3.28%; Monthly payment: $239
+6357,A00009424,64860,60,1081,C,2018,7,12,2018-07-12,2018-07-12,1,debt_consolidation,interest rate:3.96%; Monthly payment:283
+6202,A00010404,65184,12,5432,A,2014,4,18,2014-04-18,2014-04-18,1,home_improvement,Interest rate:3.95%; monthly payment:342
+5531,A00005944,66432,24,2768,C,2017,9,30,2017-09-30,2017-09-30,29,debt_consolidation,Interest rate: 3.0%; Monthly payment: $155
+5892,A00008784,66480,24,2770,B,2016,5,14,2016-05-14,2016-05-14,1,home_improvement,Interest rate:3.62%; Monthly payment:375
+5931,A00007907,66696,24,2779,D,2017,3,17,2017-03-17,2017-03-17,1,home,Interest rate:3.51%; monthly payment:$970
+5930,A00002143,66696,24,2779,C,2018,1,12,2018-01-12,2018-01-12,1,home,interest rate: 3.39%; monthly payment: $704
+5039,A00008159,66840,24,2785,C,2017,5,3,2017-05-03,2017-05-03,70,home,Interest rate: 3.0%; Monthly payment: $735
+7286,A00009153,67320,36,1870,C,2017,1,31,2017-01-31,2017-01-31,1,home,Interest rate:3.49%; Monthly payment:773
+5682,A00005001,67464,12,5622,A,2017,3,7,2017-03-07,2017-03-07,1,home,Interest rate: 3.89%; monthly payment: $524
+7201,A00005724,67464,12,5622,A,2017,3,7,2017-03-07,2017-03-07,1,home,Interest rate: 3.22%; monthly payment: $156
+6249,A00001284,67608,24,2817,C,2017,7,30,2017-07-30,2017-07-30,1,home,interest rate: 3.73%; Monthly payment: $469
+6753,A00010911,67980,12,5665,A,2017,3,20,2017-03-20,2017-03-20,1,home,Interest rate:3.96%; monthly payment:$778
+6598,A00010202,68112,12,5676,A,2015,1,18,2015-01-18,2015-01-18,1,home,Interest rate:3.52%; Monthly payment:829
+5638,A00001888,68124,12,5677,A,2017,8,27,2017-08-27,2017-08-27,59,home,interest rate:3.02%; Monthly payment:883
+6095,A00002262,68340,60,1139,C,2017,1,24,2017-01-24,2017-01-24,1,home,Interest rate: 3.23%; monthly payment: 184
+5352,A00002762,68400,12,5700,B,2015,4,15,2015-04-15,2015-04-15,59,home,Interest rate: 3.54%; Monthly payment: $210
+5741,A00007099,68544,24,2856,A,2016,11,3,2016-11-03,2016-11-03,1,home,interest rate:3.15%; Monthly payment:$898
+5681,A00002872,68664,24,2861,C,2017,10,20,2017-10-20,2017-10-20,1,home,interest rate:3.53%; Monthly payment:$929
+7194,A00005269,68832,36,1912,C,2016,9,17,2016-09-17,2016-09-17,1,home,interest rate: 3.3%; monthly payment: 879
+7249,A00009153,69360,48,1445,A,2014,6,12,2014-06-12,2014-06-12,1,home,interest rate:3.55%; monthly payment:191
+6857,A00001888,69600,48,1450,C,2018,6,8,2018-06-08,2018-06-08,1,home,interest rate: 3.97%; Monthly payment: $974
+5526,A00009140,69624,36,1934,C,2018,11,8,2018-11-08,2018-11-08,1,home,interest rate: 3.55%; monthly payment: 161
+6817,A00003754,70656,48,1472,C,2016,10,4,2016-10-04,2016-10-04,1,home,interest rate:3.13%; monthly payment:525
+5212,A00006699,71064,36,1974,A,2015,5,29,2015-05-29,2015-05-29,64,home,interest rate:3.26%; Monthly payment:177
+6624,A00003489,71460,12,5955,A,2014,9,30,2014-09-30,2014-09-30,1,home,interest rate:3.79%; Monthly payment:531
+5385,A00009024,71460,36,1985,C,2016,9,9,2016-09-09,2016-09-09,59,home,interest rate:3.19%; Monthly payment:$303
+5669,A00011079,71820,36,1995,C,2018,6,27,2018-06-27,2018-06-27,1,home,interest rate: 3.8%; monthly payment: 570
+6824,A00007437,71976,24,2999,D,2017,2,26,2017-02-26,2017-02-26,1,home,interest rate: 3.86%; monthly payment: $450
+6599,A00005442,72120,12,6010,A,2016,11,19,2016-11-19,2016-11-19,1,home,Interest rate: 3.62%; Monthly payment: 577
+6303,A00003608,72408,24,3017,B,2016,2,12,2016-02-12,2016-02-12,1,home,interest rate:3.04%; monthly payment:471
+5420,A00005072,72504,24,3021,C,2017,2,24,2017-02-24,2017-02-24,59,home,Interest rate:3.7%; Monthly payment:394
+5125,A00005774,73056,48,1522,C,2015,11,23,2015-11-23,2015-11-23,64,home,Interest rate:3.94%; monthly payment:614
+6490,A00007176,73260,60,1221,C,2017,2,10,2017-02-10,2017-02-10,1,home,interest rate: 3.1%; Monthly payment: $311
+5880,A00003834,73836,36,2051,A,2015,10,31,2015-10-31,2015-10-31,1,home,Interest rate:3.15%; Monthly payment:881
+5878,A00004052,74040,12,6170,A,2017,4,1,2017-04-01,2017-04-01,1,home,Interest rate: 3.75%; monthly payment: $167
+6461,A00004144,74124,36,2059,C,2016,9,19,2016-09-19,2016-09-19,1,home,interest rate:3.31%; Monthly payment:351
+6766,A00005263,74352,24,3098,C,2018,4,28,2018-04-28,2018-04-28,1,home,interest rate:3.83%; Monthly payment:536
+6729,A00000097,74688,12,6224,A,2014,8,11,2014-08-11,2014-08-11,1,home,Interest rate:3.78%; monthly payment:$913
+6668,A00005991,74736,36,2076,A,2014,7,30,2014-07-30,2014-07-30,1,home,Interest rate: 3.27%; monthly payment: 776
+5214,A00004576,74772,36,2077,C,2017,7,1,2017-07-01,2017-07-01,64,home,interest rate:3.08%; Monthly payment:404
+5760,A00007861,74916,36,2081,C,2018,9,18,2018-09-18,2018-09-18,1,home,Interest rate:3.49%; Monthly payment:350
+7097,A00005228,75624,24,3151,B,2013,12,23,2013-12-23,2013-12-23,1,home,Interest rate: 3.74%; monthly payment: 906
+5992,A00010445,76080,12,6340,A,2017,3,18,2017-03-18,2017-03-18,1,home,interest rate:3.85%; monthly payment:$217
+6790,A00009030,76104,24,3171,C,2018,6,8,2018-06-08,2018-06-08,1,home,Interest rate: 3.71%; monthly payment: 310
+5739,A00010266,76380,12,6365,A,2015,1,2,2015-01-02,2015-01-02,1,home,interest rate:3.44%; Monthly payment:495
+6960,A00005228,76416,24,3184,A,2015,1,11,2015-01-11,2015-01-11,1,home,interest rate:3.49%; monthly payment:967
+6737,A00008026,76680,24,3195,A,2015,3,11,2015-03-11,2015-03-11,1,home,Interest rate:3.38%; monthly payment:$161
+6316,A00007133,76908,12,6409,B,2014,5,26,2014-05-26,2014-05-26,1,home,interest rate: 3.33%; Monthly payment: $346
+5117,A00010493,76944,12,6412,A,2017,8,20,2017-08-20,2017-08-20,64,home,interest rate: 3.52%; Monthly payment: 689
+6322,A00010478,76992,24,3208,C,2017,5,6,2017-05-06,2017-05-06,1,home,Interest rate:3.36%; monthly payment:325
+5635,A00007437,77184,36,2144,C,2016,10,4,2016-10-04,2016-10-04,59,home,interest rate:3.23%; monthly payment:$614
+6574,A00007156,77544,36,2154,C,2017,12,20,2017-12-20,2017-12-20,1,home_improvement,interest rate: 3.72%; Monthly payment: $905
+6642,A00000276,77640,12,6470,A,2014,6,5,2014-06-05,2014-06-05,1,debt_consolidation,Interest rate:3.11%; monthly payment:$499
+7051,A00002912,77808,12,6484,A,2017,7,28,2017-07-28,2017-07-28,1,home_improvement,Interest rate:3.32%; Monthly payment:105
+5389,A00010361,78600,24,3275,C,2017,8,22,2017-08-22,2017-08-22,59,home,interest rate: 3.23%; monthly payment: 966
+6113,A00008919,78696,36,2186,C,2017,10,1,2017-10-01,2017-10-01,1,debt_consolidation,Interest rate:3.48%; monthly payment:$524
+6215,A00008411,78720,48,1640,C,2018,6,18,2018-06-18,2018-06-18,1,debt_consolidation,interest rate:3.34%; monthly payment:$197
+5285,A00005196,78936,12,6578,A,2014,2,6,2014-02-06,2014-02-06,64,home_improvement,interest rate:3.37%; monthly payment:$421
+6605,A00006473,79344,48,1653,C,2017,10,14,2017-10-14,2017-10-14,1,debt_consolidation,interest rate:3.2%; monthly payment:$665
+6077,A00004415,79608,24,3317,A,2013,11,22,2013-11-22,2013-11-22,1,home_improvement,interest rate:3.37%; monthly payment:$907
+5836,A00007542,79632,24,3318,A,2014,8,27,2014-08-27,2014-08-27,1,home,Interest rate:3.47%; monthly payment:$502
+6059,A00000525,79824,12,6652,A,2017,12,28,2017-12-28,2017-12-28,1,home,Interest rate:3.49%; Monthly payment:$794
+6294,A00000276,79920,60,1332,C,2015,2,12,2015-02-12,2015-02-12,1,home,Interest rate:3.37%; Monthly payment:$441
+6678,A00006856,80340,12,6695,A,2014,5,20,2014-05-20,2014-05-20,1,home,Interest rate:3.95%; monthly payment:$186
+4959,A00007966,80952,24,3373,A,2014,1,5,2014-01-05,2014-01-05,1,home,Interest rate: 3.59%; monthly payment: 738
+6499,A00004863,80952,24,3373,A,2014,1,5,2014-01-05,2014-01-05,1,home,interest rate:3.52%; Monthly payment:$679
+5906,A00005269,81144,36,2254,C,2018,5,5,2018-05-05,2018-05-05,1,home,interest rate: 3.86%; monthly payment: 220
+6868,A00009353,82128,24,3422,C,2018,10,12,2018-10-12,2018-10-12,1,home,Interest rate: 3.68%; Monthly payment: $181
+5595,A00009093,82896,12,6908,A,2014,9,2,2014-09-02,2014-09-02,18,home,Interest rate:3.62%; monthly payment:264
+6150,A00010812,83016,12,6918,A,2014,11,2,2014-11-02,2014-11-02,1,home,Interest rate: 3.54%; monthly payment: 784
+6875,A00000314,83280,48,1735,C,2017,3,13,2017-03-13,2017-03-13,1,home,interest rate: 3.46%; Monthly payment: 425
+6922,A00004260,83628,36,2323,C,2017,8,26,2017-08-26,2017-08-26,1,home,interest rate: 3.25%; Monthly payment: 191
+5367,A00002322,83628,36,2323,C,2017,8,26,2017-08-26,2017-08-26,59,home,Interest rate:3.9%; Monthly payment:$443
+6613,A00002322,84120,24,3505,A,2016,9,22,2016-09-22,2016-09-22,1,home,interest rate:3.11%; Monthly payment:$645
+5790,A00001603,84288,48,1756,C,2017,3,20,2017-03-20,2017-03-20,1,home,interest rate:3.11%; monthly payment:$702
+5061,A00008688,84288,48,1756,C,2018,3,13,2018-03-13,2018-03-13,70,home,interest rate:3.55%; monthly payment:159
+5784,A00002728,84600,36,2350,D,2017,3,29,2017-03-29,2017-03-29,1,home,Interest rate: 3.01%; Monthly payment: $100
+6283,A00004144,85632,48,1784,C,2016,8,11,2016-08-11,2016-08-11,1,home,interest rate: 3.3%; Monthly payment: $466
+6751,A00005180,85716,36,2381,C,2016,7,14,2016-07-14,2016-07-14,1,home,interest rate: 3.63%; Monthly payment: $595
+6726,A00005952,85860,60,1431,C,2015,9,3,2015-09-03,2015-09-03,1,home,interest rate: 3.69%; monthly payment: 919
+6921,A00005033,86184,12,7182,A,2016,10,29,2016-10-29,2016-10-29,1,home,Interest rate: 3.93%; monthly payment: 294
+5893,A00004626,86184,36,2394,C,2018,8,3,2018-08-03,2018-08-03,1,home,interest rate:3.38%; monthly payment:$535
+5366,A00000314,86184,12,7182,A,2016,10,29,2016-10-29,2016-10-29,59,home,interest rate: 3.08%; Monthly payment: 363
+6876,A00005602,86616,12,7218,A,2013,12,21,2013-12-21,2013-12-21,1,home,interest rate:3.52%; monthly payment:639
+7119,A00005891,86880,12,7240,A,2017,6,2,2017-06-02,2017-06-02,1,home,Interest rate:3.76%; monthly payment:$907
+6210,A00007907,87216,48,1817,B,2014,6,6,2014-06-06,2014-06-06,1,home,Interest rate: 3.03%; monthly payment: 168
+5138,A00006148,87216,48,1817,C,2015,5,30,2015-05-30,2015-05-30,64,home,Interest rate:3.33%; Monthly payment:$697
+6279,A00010215,87360,24,3640,A,2014,6,7,2014-06-07,2014-06-07,1,home,interest rate:3.54%; monthly payment:$746
+6278,A00000132,87360,24,3640,C,2017,6,10,2017-06-10,2017-06-10,1,home,Interest rate: 3.34%; Monthly payment: 792
+5933,A00010942,87528,24,3647,C,2017,12,13,2017-12-13,2017-12-13,1,home,Interest rate: 3.44%; monthly payment: 160
+5882,A00003804,87816,12,7318,A,2014,9,26,2014-09-26,2014-09-26,1,home,Interest rate: 3.49%; monthly payment: $152
+6687,A00009140,87840,24,3660,A,2013,9,13,2013-09-13,2013-09-13,1,home,interest rate: 3.45%; Monthly payment: $284
+6969,A00007753,88200,36,2450,C,2018,9,12,2018-09-12,2018-09-12,1,home,interest rate: 3.97%; monthly payment: 945
+6763,A00008321,88272,48,1839,C,2017,6,19,2017-06-19,2017-06-19,1,home,interest rate: 3.82%; monthly payment: 603
+4996,A00011244,88440,12,7370,A,2016,11,6,2016-11-06,2016-11-06,1,home,interest rate: 3.3%; monthly payment: 107
+5585,A00008225,88608,12,7384,C,2018,7,8,2018-07-08,2018-07-08,18,home,interest rate:3.09%; monthly payment:$479
+7115,A00005572,88704,48,1848,C,2017,3,4,2017-03-04,2017-03-04,1,home,Interest rate: 3.23%; monthly payment: $158
+6696,A00001811,89040,60,1484,C,2014,5,9,2014-05-09,2014-05-09,1,home,Interest rate: 3.59%; Monthly payment: 625
+7277,A00004825,89280,12,7440,A,2017,10,24,2017-10-24,2017-10-24,1,home,interest rate:3.07%; Monthly payment:$266
+7013,A00009493,89340,60,1489,C,2016,8,2,2016-08-02,2016-08-02,1,home,Interest rate:3.24%; monthly payment:439
+5495,A00005632,89340,60,1489,C,2016,8,2,2016-08-02,2016-08-02,46,home,interest rate:3.26%; Monthly payment:$901
+7263,A00005263,89880,24,3745,A,2016,1,19,2016-01-19,2016-01-19,1,home,Interest rate:3.47%; monthly payment:$681
+5868,A00007274,90156,12,7513,A,2017,3,29,2017-03-29,2017-03-29,1,home,interest rate: 3.37%; Monthly payment: 213
+6088,A00004994,90180,36,2505,C,2017,3,7,2017-03-07,2017-03-07,1,home,Interest rate:3.28%; Monthly payment:139
+5088,A00005774,91152,24,3798,A,2016,8,22,2016-08-22,2016-08-22,64,home,interest rate: 3.31%; Monthly payment: 393
+6520,A00000993,91200,24,3800,A,2014,3,16,2014-03-16,2014-03-16,1,home,interest rate:3.32%; monthly payment:558
+5036,A00005991,91248,48,1901,C,2018,11,25,2018-11-25,2018-11-25,70,home,Interest rate:3.02%; Monthly payment:609
+6596,A00005735,91584,24,3816,A,2014,6,25,2014-06-25,2014-06-25,1,home,interest rate: 3.46%; monthly payment: $606
+5519,A00000666,91632,12,7636,A,2014,3,8,2014-03-08,2014-03-08,1,home,Interest rate:3.96%; monthly payment:381
+7046,A00007180,91632,12,7636,A,2017,3,28,2017-03-28,2017-03-28,1,home,interest rate: 3.53%; Monthly payment: 947
+5377,A00003037,92400,12,7700,A,2017,8,4,2017-08-04,2017-08-04,59,home,Interest rate:3.25%; Monthly payment:$819
+5413,A00007632,92976,24,3874,A,2015,12,12,2015-12-12,2015-12-12,59,home,Interest rate: 3.87%; Monthly payment: $430
+6730,A00002725,93036,12,7753,C,2018,2,15,2018-02-15,2018-02-15,1,home,interest rate:3.93%; Monthly payment:327
+6644,A00011141,93600,24,3900,A,2016,10,20,2016-10-20,2016-10-20,1,home,Interest rate: 3.96%; monthly payment: $568
+5523,A00007156,93888,36,2608,A,2013,12,8,2013-12-08,2013-12-08,1,home,interest rate: 3.41%; Monthly payment: $320
+5525,A00002335,93888,36,2608,C,2018,4,27,2018-04-27,2018-04-27,1,home,interest rate: 3.42%; monthly payment: 616
+5895,A00004476,93960,60,1566,C,2017,1,3,2017-01-03,2017-01-03,1,home,Interest rate:3.29%; Monthly payment:$343
+6562,A00006400,94488,24,3937,C,2017,3,21,2017-03-21,2017-03-21,1,home,interest rate:3.88%; monthly payment:$843
+5643,A00002335,94512,12,7876,B,2017,9,21,2017-09-21,2017-09-21,59,home,Interest rate:3.18%; monthly payment:452
+6356,A00011317,95400,36,2650,A,2013,12,8,2013-12-08,2013-12-08,1,home,Interest rate: 3.51%; Monthly payment: 395
+5464,A00001252,95808,12,7984,A,2015,1,30,2015-01-30,2015-01-30,59,home,Interest rate:3.45%; Monthly payment:$515
+6995,A00009263,96168,12,8014,A,2016,9,26,2016-09-26,2016-09-26,1,home,Interest rate: 3.41%; Monthly payment: 545
+5314,A00009928,96396,12,8033,B,2013,7,5,2013-07-05,2013-07-05,64,home,Interest rate: 3.4%; monthly payment: $651
+6421,A00001480,96768,36,2688,C,2016,7,25,2016-07-25,2016-07-25,1,home,interest rate: 3.61%; Monthly payment: $241
+5774,A00003353,96984,36,2694,C,2018,7,12,2018-07-12,2018-07-12,1,home,interest rate:3.34%; Monthly payment:$625
+5953,A00001967,97176,24,4049,C,2017,3,14,2017-03-14,2017-03-14,1,home,Interest rate:3.41%; monthly payment:$994
+5877,A00008051,97224,24,4051,A,2015,2,23,2015-02-23,2015-02-23,1,home,Interest rate:3.64%; monthly payment:223
+6612,A00004576,97392,12,8116,A,2017,8,31,2017-08-31,2017-08-31,1,home,Interest rate:3.54%; Monthly payment:$707
+6998,A00005313,97632,12,8136,A,2014,5,21,2014-05-21,2014-05-21,1,home,Interest rate:3.73%; Monthly payment:$252
+6677,A00003754,97980,60,1633,C,2017,8,12,2017-08-12,2017-08-12,1,home,interest rate:3.24%; Monthly payment:$826
+5161,A00003460,98184,24,4091,A,2014,10,28,2014-10-28,2014-10-28,64,home,interest rate:3.34%; Monthly payment:$770
+7253,A00009337,98304,12,8192,A,2017,4,26,2017-04-26,2017-04-26,1,home,Interest rate: 3.51%; Monthly payment: 814
+6157,A00005477,98592,24,4108,A,2015,7,10,2015-07-10,2015-07-10,1,home,Interest rate:3.19%; monthly payment:693
+5999,A00010942,98832,48,2059,C,2016,1,3,2016-01-03,2016-01-03,1,home,Interest rate: 3.72%; Monthly payment: 616
+6168,A00000344,99216,36,2756,C,2018,11,21,2018-11-21,2018-11-21,1,home,interest rate:3.91%; Monthly payment:552
+6665,A00007769,99300,60,1655,C,2017,8,15,2017-08-15,2017-08-15,1,home,Interest rate:3.07%; monthly payment:$849
+5449,A00010022,99336,24,4139,A,2015,11,4,2015-11-04,2015-11-04,59,home,Interest rate: 3.19%; Monthly payment: $617
+5208,A00003143,99696,48,2077,D,2015,3,16,2015-03-16,2015-03-16,64,home,interest rate: 3.9%; monthly payment: 575
+6469,A00000544,99744,24,4156,C,2018,11,17,2018-11-17,2018-11-17,1,home,interest rate:3.04%; monthly payment:$664
+6913,A00011138,99936,24,4164,C,2017,4,29,2017-04-29,2017-04-29,1,home,interest rate: 3.56%; monthly payment: $891
+5253,A00007542,100080,48,2085,C,2017,6,3,2017-06-03,2017-06-03,64,home,Interest rate: 3.62%; Monthly payment: 162
+5862,A00001011,100128,24,4172,C,2017,12,9,2017-12-09,2017-12-09,1,home,Interest rate:3.26%; Monthly payment:$257
+6816,A00009225,100224,48,2088,D,2016,3,26,2016-03-26,2016-03-26,1,home,Interest rate: 3.55%; Monthly payment: $670
+6346,A00003834,100260,60,1671,C,2017,5,22,2017-05-22,2017-05-22,1,home,interest rate:3.17%; Monthly payment:$260
+5817,A00005317,100800,24,4200,D,2017,8,15,2017-08-15,2017-08-15,1,home,Interest rate: 3.22%; Monthly payment: $946
+5044,A00009677,100980,60,1683,C,2014,12,21,2014-12-21,2014-12-21,70,home,interest rate: 3.5%; Monthly payment: 324
+5375,A00004476,101520,12,8460,A,2016,10,3,2016-10-03,2016-10-03,59,home,interest rate:3.34%; monthly payment:$326
+5110,A00010404,102240,60,1704,C,2017,4,1,2017-04-01,2017-04-01,64,home,Interest rate:3.79%; Monthly payment:$364
+4986,A00004079,102876,12,8573,A,2017,8,10,2017-08-10,2017-08-10,1,home,interest rate:3.33%; monthly payment:$811
+6169,A00009731,103680,60,1728,D,2015,3,16,2015-03-16,2015-03-16,1,home,interest rate:3.31%; Monthly payment:$319
+6950,A00008776,104712,24,4363,A,2015,4,11,2015-04-11,2015-04-11,1,home,Interest rate:3.29%; Monthly payment:126
+6949,A00005724,104712,24,4363,A,2015,12,12,2015-12-12,2015-12-12,1,home,interest rate: 3.83%; monthly payment: $749
+5002,A00000472,104808,12,8734,A,2014,5,31,2014-05-31,2014-05-31,1,home,interest rate: 3.11%; monthly payment: 105
+6320,A00006924,104964,12,8747,C,2018,4,28,2018-04-28,2018-04-28,1,home,interest rate:3.85%; monthly payment:954
+5325,A00000675,105804,36,2939,A,2013,8,3,2013-08-03,2013-08-03,64,home,interest rate:3.31%; Monthly payment:$219
+5799,A00009677,106128,36,2948,C,2017,12,28,2017-12-28,2017-12-28,1,home,Interest rate:3.15%; monthly payment:134
+5940,A00001318,106944,24,4456,C,2017,5,28,2017-05-28,2017-05-28,1,home,interest rate: 3.8%; monthly payment: 158
+5779,A00011138,107352,36,2982,C,2017,10,14,2017-10-14,2017-10-14,1,home,Interest rate:3.25%; monthly payment:$969
+5959,A00001247,107640,24,4485,A,2015,8,11,2015-08-11,2015-08-11,1,home,Interest rate: 3.69%; Monthly payment: $179
+7259,A00007859,108144,36,3004,A,2014,1,31,2014-01-31,2014-01-31,1,home,interest rate: 3.35%; monthly payment: $665
+5154,A00004081,108720,60,1812,C,2018,7,1,2018-07-01,2018-07-01,64,home,interest rate: 3.1%; monthly payment: $795
+5015,A00002245,109344,12,9112,C,2018,7,12,2018-07-12,2018-07-12,1,home,Interest rate:3.88%; monthly payment:389
+6015,A00005305,110112,24,4588,A,2016,11,9,2016-11-09,2016-11-09,1,home,interest rate: 3.73%; Monthly payment: 632
+6309,A00001776,110136,24,4589,A,2016,11,11,2016-11-11,2016-11-11,1,home,interest rate:3.02%; Monthly payment:728
+6508,A00000103,110736,48,2307,C,2018,4,19,2018-04-19,2018-04-19,1,home,interest rate:3.21%; Monthly payment:$141
+4968,A00008381,110736,48,2307,C,2018,4,19,2018-04-19,2018-04-19,1,home,interest rate: 3.55%; Monthly payment: $605
+5533,A00011265,111384,24,4641,A,2014,7,5,2014-07-05,2014-07-05,29,home,Interest rate: 3.03%; monthly payment: 326
+5034,A00005477,112752,36,3132,C,2018,5,30,2018-05-30,2018-05-30,70,home,interest rate: 3.43%; monthly payment: $374
+7091,A00009730,113436,36,3151,C,2018,9,22,2018-09-22,2018-09-22,1,home,Interest rate: 3.13%; monthly payment: 139
+7213,A00008085,113544,36,3154,C,2016,2,13,2016-02-13,2016-02-13,1,home,interest rate: 3.48%; monthly payment: 173
+6985,A00000825,113796,36,3161,A,2015,11,22,2015-11-22,2015-11-22,1,home,interest rate: 3.92%; Monthly payment: 526
+7233,A00005196,115812,36,3217,C,2016,12,25,2016-12-25,2016-12-25,1,home,interest rate:3.72%; monthly payment:185
+7192,A00001480,115992,36,3222,A,2014,12,21,2014-12-21,2014-12-21,1,home,interest rate:3.51%; Monthly payment:$473
+6984,A00007990,116040,60,1934,C,2017,8,15,2017-08-15,2017-08-15,1,home,Interest rate:3.62%; monthly payment:$259
+6353,A00009814,116496,24,4854,C,2017,12,25,2017-12-25,2017-12-25,1,home,interest rate:3.37%; monthly payment:542
+6934,A00003403,116832,12,9736,A,2017,2,9,2017-02-09,2017-02-09,1,home,interest rate:3.47%; Monthly payment:$329
+5997,A00002218,117024,24,4876,A,2013,11,4,2013-11-04,2013-11-04,1,home,interest rate: 3.54%; Monthly payment: $136
+6076,A00007632,117420,60,1957,C,2017,2,2,2017-02-02,2017-02-02,1,home,Interest rate:3.21%; monthly payment:$762
+7250,A00007674,119136,48,2482,C,2017,3,4,2017-03-04,2017-03-04,1,home,Interest rate:3.34%; Monthly payment:268
+6919,A00000440,120888,36,3358,A,2014,8,5,2014-08-05,2014-08-05,1,home,interest rate:3.57%; monthly payment:505
+7061,A00006856,121896,24,5079,A,2014,8,27,2014-08-27,2014-08-27,1,home,Interest rate: 3.83%; monthly payment: 302
+6866,A00002728,122472,24,5103,C,2018,2,5,2018-02-05,2018-02-05,1,home,Interest rate:3.85%; monthly payment:$124
+5610,A00009031,123216,48,2567,C,2016,2,24,2016-02-24,2016-02-24,18,home,interest rate: 3.37%; monthly payment: $155
+5260,A00007565,123300,36,3425,C,2018,1,19,2018-01-19,2018-01-19,64,home,interest rate:3.67%; monthly payment:$274
+7130,A00005944,123408,24,5142,A,2016,12,11,2016-12-11,2016-12-11,1,home,interest rate: 3.54%; monthly payment: $710
+6190,A00009241,123600,60,2060,C,2016,5,6,2016-05-06,2016-05-06,1,home,interest rate:3.58%; Monthly payment:230
+5032,A00006688,123696,48,2577,A,2014,11,3,2014-11-03,2014-11-03,70,home,Interest rate: 3.82%; monthly payment: $389
+6386,A00006924,124344,36,3454,C,2017,4,30,2017-04-30,2017-04-30,1,home,Interest rate: 3.61%; Monthly payment: 793
+6785,A00000718,125340,60,2089,C,2015,12,25,2015-12-25,2015-12-25,1,home,Interest rate:3.47%; Monthly payment:112
+5245,A00001888,125472,24,5228,C,2018,1,17,2018-01-17,2018-01-17,64,home,Interest rate: 3.3%; monthly payment: $835
+5241,A00009493,125472,24,5228,C,2018,9,2,2018-09-02,2018-09-02,64,home,Interest rate: 3.97%; monthly payment: $732
+6996,A00003329,126600,24,5275,A,2015,4,13,2015-04-13,2015-04-13,1,home,interest rate: 3.45%; monthly payment: 177
+6863,A00004631,127080,60,2118,A,2013,7,28,2013-07-28,2013-07-28,1,home,interest rate:3.29%; Monthly payment:613
+6355,A00003403,127200,48,2650,C,2017,9,24,2017-09-24,2017-09-24,1,home,interest rate: 3.92%; Monthly payment: 132
+6641,A00001242,128268,36,3563,C,2017,9,9,2017-09-09,2017-09-09,1,home,Interest rate:3.66%; Monthly payment:227
+5206,A00007099,128544,24,5356,C,2017,9,7,2017-09-07,2017-09-07,64,home,interest rate:3.12%; Monthly payment:$790
+6013,A00001888,128988,36,3583,D,2016,2,3,2016-02-03,2016-02-03,1,home,Interest rate: 3.6%; monthly payment: 457
+6075,A00006138,129312,24,5388,D,2017,11,26,2017-11-26,2017-11-26,1,home,interest rate:3.07%; monthly payment:$674
+7308,A00001888,129408,24,5392,A,2016,12,27,2016-12-27,2016-12-27,1,home,interest rate:3.59%; Monthly payment:$796
+6544,A00004447,130464,48,2718,C,2017,12,11,2017-12-11,2017-12-11,1,home,interest rate:3.17%; monthly payment:460
+5616,A00001843,130896,24,5454,C,2018,5,15,2018-05-15,2018-05-15,18,home,interest rate: 3.77%; Monthly payment: 204
+7220,A00002445,131292,36,3647,A,2014,7,28,2014-07-28,2014-07-28,1,home,interest rate:3.18%; monthly payment:$348
+7151,A00007133,133800,24,5575,C,2018,2,18,2018-02-18,2018-02-18,1,home,Interest rate: 3.02%; Monthly payment: $416
+5773,A00011054,133848,24,5577,C,2018,3,16,2018-03-16,2018-03-16,1,home,interest rate: 3.25%; monthly payment: $769
+6992,A00008742,133968,48,2791,C,2016,7,27,2016-07-27,2016-07-27,1,home,Interest rate:3.54%; monthly payment:$936
+6694,A00006555,134784,24,5616,A,2015,3,19,2015-03-19,2015-03-19,1,home,interest rate:3.64%; monthly payment:$687
+5900,A00006158,135360,48,2820,C,2016,1,1,2016-01-01,2016-01-01,1,home,interest rate:3.48%; Monthly payment:$897
+5501,A00000025,136344,24,5681,C,2018,5,21,2018-05-21,2018-05-21,46,home,interest rate:3.47%; monthly payment:246
+7067,A00005593,136368,24,5682,C,2018,1,11,2018-01-11,2018-01-11,1,home,interest rate:3.18%; monthly payment:$531
+6358,A00010973,137880,60,2298,D,2015,1,14,2015-01-14,2015-01-14,1,home,interest rate:3.33%; Monthly payment:$613
+5805,A00001247,137904,24,5746,B,2015,11,28,2015-11-28,2015-11-28,1,home,Interest rate:3.3%; monthly payment:959
+5415,A00005837,139464,36,3874,D,2016,9,26,2016-09-26,2016-09-26,59,home,interest rate:3.84%; Monthly payment:509
+6402,A00002334,139488,24,5812,C,2018,12,6,2018-12-06,2018-12-06,1,home,Interest rate:3.52%; Monthly payment:278
+6965,A00003037,139536,24,5814,A,2015,6,13,2015-06-13,2015-06-13,1,home,Interest rate: 3.08%; monthly payment: $687
+6571,A00007240,140064,24,5836,C,2018,5,12,2018-05-12,2018-05-12,1,home,Interest rate: 3.75%; Monthly payment: $768
+6645,A00008330,140400,36,3900,A,2014,11,6,2014-11-06,2014-11-06,1,home,interest rate: 3.91%; Monthly payment: $812
+7202,A00007990,140688,48,2931,C,2018,5,29,2018-05-29,2018-05-29,1,home,Interest rate: 3.0%; monthly payment: $539
+5683,A00005774,140688,48,2931,C,2018,5,29,2018-05-29,2018-05-29,1,home,Interest rate: 3.77%; monthly payment: $157
+6136,A00004260,140880,60,2348,C,2018,4,19,2018-04-19,2018-04-19,1,home,Interest rate:3.66%; Monthly payment:545
+6216,A00002064,141240,24,5885,A,2014,9,30,2014-09-30,2014-09-30,1,home,interest rate:3.88%; monthly payment:304
+5988,A00000426,141648,24,5902,A,2016,8,22,2016-08-22,2016-08-22,1,home,interest rate:3.44%; monthly payment:$752
+5301,A00010440,141948,36,3943,C,2016,7,6,2016-07-06,2016-07-06,64,home,Interest rate:3.6%; Monthly payment:530
+5320,A00009730,143676,36,3991,C,2018,1,11,2018-01-11,2018-01-11,64,home,interest rate:3.8%; Monthly payment:$821
+6004,A00004715,143904,24,5996,A,2014,7,23,2014-07-23,2014-07-23,1,home,interest rate:3.5%; monthly payment:$216
+6632,A00008039,144960,48,3020,C,2018,4,23,2018-04-23,2018-04-23,1,home,Interest rate:3.75%; Monthly payment:$125
+5656,A00004413,146064,24,6086,C,2017,2,9,2017-02-09,2017-02-09,59,home,interest rate:3.79%; monthly payment:558
+5210,A00009140,148140,36,4115,C,2017,4,1,2017-04-01,2017-04-01,64,home,interest rate:3.75%; monthly payment:912
+7246,A00010762,148920,60,2482,C,2016,8,20,2016-08-20,2016-08-20,1,home,interest rate: 3.43%; monthly payment: $925
+5189,A00008127,149040,48,3105,A,2014,2,7,2014-02-07,2014-02-07,64,home,interest rate: 3.09%; Monthly payment: $584
+6103,A00005164,149340,60,2489,C,2014,4,7,2014-04-07,2014-04-07,1,home,interest rate:3.3%; Monthly payment:$403
+6010,A00000993,150180,60,2503,C,2017,3,6,2017-03-06,2017-03-06,1,home,interest rate: 3.93%; Monthly payment: 894
+6313,A00000378,150912,36,4192,C,2017,6,15,2017-06-15,2017-06-15,1,home,Interest rate:3.28%; monthly payment:$742
+5815,A00006792,151200,36,4200,C,2018,6,3,2018-06-03,2018-06-03,1,home,Interest rate: 3.11%; Monthly payment: 527
+7137,A00008377,151560,24,6315,A,2014,6,3,2014-06-03,2014-06-03,1,home,interest rate: 3.46%; Monthly payment: $972
+6986,A00007894,151728,48,3161,D,2015,2,11,2015-02-11,2015-02-11,1,home,Interest rate:3.22%; monthly payment:318
+6486,A00009731,152160,60,2536,C,2018,1,15,2018-01-15,2018-01-15,1,home,Interest rate: 3.95%; monthly payment: $996
+7221,A00005445,152460,60,2541,C,2018,6,11,2018-06-11,2018-06-11,1,home,Interest rate: 3.16%; monthly payment: $238
+6607,A00007824,153144,36,4254,C,2017,10,21,2017-10-21,2017-10-21,1,home,interest rate:3.07%; monthly payment:565
+6541,A00004473,153504,48,3198,C,2017,8,17,2017-08-17,2017-08-17,1,home,Interest rate:3.56%; Monthly payment:919
+5765,A00005428,153936,24,6414,C,2018,2,10,2018-02-10,2018-02-10,1,home,Interest rate:3.47%; Monthly payment:$936
+7235,A00007713,154416,48,3217,A,2013,10,13,2013-10-13,2013-10-13,1,home,interest rate: 3.25%; Monthly payment: $744
+7189,A00006226,154656,48,3222,C,2016,3,21,2016-03-21,2016-03-21,1,home,interest rate: 3.99%; monthly payment: 330
+6818,A00008899,155616,48,3242,C,2016,12,12,2016-12-12,2016-12-12,1,home,interest rate: 3.77%; Monthly payment: 228
+5591,A00007424,155616,48,3242,C,2016,12,4,2016-12-04,2016-12-04,18,home,interest rate:3.94%; Monthly payment:$295
+6471,A00002699,155640,24,6485,A,2016,8,4,2016-08-04,2016-08-04,1,home,Interest rate:3.59%; monthly payment:$363
+7279,A00002246,155760,24,6490,C,2017,12,11,2017-12-11,2017-12-11,1,home,Interest rate: 3.82%; Monthly payment: 269
+6667,A00010788,155880,24,6495,A,2016,7,15,2016-07-15,2016-07-15,1,home,Interest rate: 3.56%; Monthly payment: 456
+5124,A00002165,156096,36,4336,C,2018,2,12,2018-02-12,2018-02-12,64,home,Interest rate: 3.75%; monthly payment: $635
+5527,A00002000,156420,60,2607,C,2018,6,15,2018-06-15,2018-06-15,1,home,Interest rate: 3.17%; monthly payment: $126
+5453,A00004320,156672,36,4352,A,2015,4,1,2015-04-01,2015-04-01,59,home,interest rate:3.05%; Monthly payment:999
+6948,A00006473,157068,36,4363,C,2018,3,15,2018-03-15,2018-03-15,1,home,Interest rate:3.31%; monthly payment:$294
+6104,A00002000,158184,36,4394,C,2017,9,5,2017-09-05,2017-09-05,1,home,interest rate: 3.68%; Monthly payment: 473
+5713,A00004681,158760,60,2646,C,2015,5,30,2015-05-30,2015-05-30,1,home,interest rate: 3.21%; monthly payment: 374
+5804,A00004784,158976,48,3312,C,2015,4,5,2015-04-05,2015-04-05,1,home,interest rate:3.47%; monthly payment:$173
+5451,A00010663,159744,48,3328,C,2017,5,11,2017-05-11,2017-05-11,59,home,interest rate: 3.94%; monthly payment: $950
+6633,A00006505,160656,24,6694,C,2018,2,5,2018-02-05,2018-02-05,1,home,interest rate: 3.52%; Monthly payment: 858
+5027,A00003678,160920,36,4470,C,2018,12,2,2018-12-02,2018-12-02,1,home,interest rate:3.05%; monthly payment:281
+5706,A00010131,161496,36,4486,C,2016,5,24,2016-05-24,2016-05-24,1,home,Interest rate: 3.93%; Monthly payment: $347
+5337,A00003967,162468,36,4513,C,2016,7,31,2016-07-31,2016-07-31,64,home,Interest rate: 3.59%; Monthly payment: $501
+4990,A00003084,162576,36,4516,C,2017,9,8,2017-09-08,2017-09-08,1,home,interest rate: 3.67%; monthly payment: 950
+5942,A00006034,162624,48,3388,C,2017,3,15,2017-03-15,2017-03-15,1,home,Interest rate: 3.11%; monthly payment: 486
+6856,A00008321,163332,36,4537,C,2018,12,1,2018-12-01,2018-12-01,1,home,interest rate:3.38%; Monthly payment:662
+5269,A00006358,164052,36,4557,B,2014,11,19,2014-11-19,2014-11-19,64,home,interest rate:3.97%; Monthly payment:225
+5850,A00003678,164196,36,4561,C,2017,5,22,2017-05-22,2017-05-22,1,home,interest rate:3.21%; Monthly payment:$856
+6871,A00008381,164256,48,3422,C,2017,4,13,2017-04-13,2017-04-13,1,home,interest rate:3.67%; Monthly payment:686
+5482,A00011013,165120,60,2752,C,2016,1,12,2016-01-12,2016-01-12,59,home,interest rate:3.67%; monthly payment:734
+6014,A00005164,165168,36,4588,C,2017,5,18,2017-05-18,2017-05-18,1,home,Interest rate:3.81%; Monthly payment:477
+5265,A00004858,165780,60,2763,C,2018,10,7,2018-10-07,2018-10-07,64,home,Interest rate: 3.24%; Monthly payment: $679
+4973,A00008533,165960,24,6915,A,2016,5,2,2016-05-02,2016-05-02,1,home,interest rate:3.51%; Monthly payment:$495
+5316,A00002153,165960,36,4610,A,2013,7,11,2013-07-11,2013-07-11,64,home,interest rate:3.58%; monthly payment:$471
+7055,A00004259,167100,60,2785,C,2014,4,6,2014-04-06,2014-04-06,1,home,Interest rate:3.37%; Monthly payment:582
+5956,A00006118,168264,36,4674,C,2017,11,4,2017-11-04,2017-11-04,1,home,interest rate:3.25%; monthly payment:$904
+7241,A00009138,168984,24,7041,B,2015,3,4,2015-03-04,2015-03-04,1,home,interest rate:3.96%; Monthly payment:294
+5390,A00007890,170256,24,7094,A,2014,10,30,2014-10-30,2014-10-30,59,home,interest rate: 3.66%; Monthly payment: 241
+6552,A00006930,170448,48,3551,C,2018,1,8,2018-01-08,2018-01-08,1,home,interest rate:3.62%; Monthly payment:580
+6755,A00006473,170700,60,2845,C,2018,7,24,2018-07-24,2018-07-24,1,home,interest rate: 3.61%; Monthly payment: 937
+6078,A00003907,170832,48,3559,C,2018,9,9,2018-09-09,2018-09-09,1,home,Interest rate:3.71%; Monthly payment:$537
+6841,A00007156,172080,48,3585,A,2014,8,7,2014-08-07,2014-08-07,1,home,Interest rate: 3.25%; Monthly payment: $776
+5304,A00007184,172272,24,7178,C,2018,8,20,2018-08-20,2018-08-20,64,home,Interest rate: 3.96%; monthly payment: 590
+6734,A00006510,173016,36,4806,C,2016,5,30,2016-05-30,2016-05-30,1,home,Interest rate:3.05%; monthly payment:895
+6066,A00005196,173808,24,7242,A,2014,7,11,2014-07-11,2014-07-11,1,home,interest rate: 3.14%; Monthly payment: $195
+6732,A00003747,174048,48,3626,C,2016,9,19,2016-09-19,2016-09-19,1,home,Interest rate:3.72%; monthly payment:$791
+6111,A00000276,174744,24,7281,B,2013,9,24,2013-09-24,2013-09-24,1,home,interest rate:3.66%; Monthly payment:883
+6112,A00010068,174744,24,7281,B,2014,6,17,2014-06-17,2014-06-17,1,home,interest rate: 3.36%; Monthly payment: $807
+5698,A00003834,174840,60,2914,C,2018,9,22,2018-09-22,2018-09-22,1,home,interest rate: 3.7%; Monthly payment: $989
+5699,A00010215,174960,24,7290,C,2018,5,24,2018-05-24,2018-05-24,1,home,interest rate: 3.74%; monthly payment: $350
+6961,A00002933,176148,36,4893,C,2016,6,6,2016-06-06,2016-06-06,1,home,interest rate: 3.81%; monthly payment: 857
+5360,A00004618,176328,36,4898,C,2018,1,25,2018-01-25,2018-01-25,59,home,interest rate:3.85%; Monthly payment:412
+6147,A00009493,177504,48,3698,C,2017,12,28,2017-12-28,2017-12-28,1,home,interest rate:3.25%; Monthly payment:723
+5624,A00004190,177744,48,3703,D,2015,1,3,2015-01-03,2015-01-03,18,home,Interest rate: 3.23%; Monthly payment: 970
+6196,A00001888,177804,36,4939,C,2017,9,14,2017-09-14,2017-09-14,1,home,Interest rate: 3.47%; Monthly payment: $454
+5140,A00000303,178500,60,2975,C,2018,2,24,2018-02-24,2018-02-24,64,home,interest rate:3.97%; monthly payment:852
+6011,A00001862,179328,48,3736,C,2016,11,28,2016-11-28,2016-11-28,1,home,interest rate: 3.91%; Monthly payment: $840
+6302,A00004415,181020,60,3017,C,2016,9,16,2016-09-16,2016-09-16,1,home,interest rate: 3.89%; Monthly payment: $172
+5409,A00009034,182040,60,3034,C,2015,11,18,2015-11-18,2015-11-18,59,home,Interest rate:3.85%; monthly payment:$101
+7262,A00001256,182628,36,5073,A,2014,3,1,2014-03-01,2014-03-01,1,home,interest rate: 3.23%; Monthly payment: $295
+5209,A00006273,182640,48,3805,C,2016,11,25,2016-11-25,2016-11-25,64,home,interest rate:3.21%; monthly payment:355
+6207,A00010645,184620,60,3077,C,2018,6,23,2018-06-23,2018-06-23,1,home,interest rate: 3.35%; monthly payment: $278
+5226,A00008919,185544,36,5154,C,2018,10,11,2018-10-11,2018-10-11,64,home,interest rate: 3.56%; monthly payment: 804
+6746,A00006985,185640,60,3094,C,2018,6,6,2018-06-06,2018-06-06,1,home,Interest rate: 3.2%; Monthly payment: $431
+5414,A00004994,185952,48,3874,C,2015,3,29,2015-03-29,2015-03-29,59,home,Interest rate:3.1%; monthly payment:100
+6793,A00010940,186300,60,3105,C,2017,1,30,2017-01-30,2017-01-30,1,home,interest rate: 3.36%; monthly payment: 678
+6810,A00001638,186384,48,3883,C,2016,6,8,2016-06-08,2016-06-08,1,home,Interest rate: 3.2%; Monthly payment: $499
+5136,A00009052,187104,24,7796,A,2016,7,28,2016-07-28,2016-07-28,64,home,interest rate: 3.47%; monthly payment: 784
+5045,A00010884,187224,24,7801,B,2015,5,1,2015-05-01,2015-05-01,70,home,interest rate:3.85%; monthly payment:232
+5158,A00006985,188532,36,5237,C,2018,4,11,2018-04-11,2018-04-11,64,home,interest rate:3.12%; monthly payment:170
+6908,A00010451,188616,24,7859,C,2017,6,8,2017-06-08,2017-06-08,1,home,Interest rate: 3.91%; Monthly payment: 130
+6933,A00006157,188688,48,3931,C,2015,9,9,2015-09-09,2015-09-09,1,home,Interest rate: 3.08%; monthly payment: $290
+5151,A00002988,189060,60,3151,C,2015,5,24,2015-05-24,2015-05-24,64,home,interest rate:3.71%; Monthly payment:418
+6836,A00001876,189300,60,3155,C,2014,8,3,2014-08-03,2014-08-03,1,home,Interest rate:3.13%; Monthly payment:758
+6594,A00008027,189696,24,7904,B,2014,9,28,2014-09-28,2014-09-28,1,home,interest rate:3.67%; monthly payment:670
+6589,A00010063,189696,24,7904,A,2016,1,1,2016-01-01,2016-01-01,1,home,interest rate: 3.9%; Monthly payment: $706
+5293,A00010063,189792,48,3954,C,2018,10,29,2018-10-29,2018-10-29,64,home,Interest rate:3.34%; Monthly payment:$345
+5270,A00000378,191088,48,3981,C,2017,7,21,2017-07-21,2017-07-21,64,home,interest rate:3.4%; monthly payment:$184
+6872,A00005164,191580,60,3193,C,2018,4,29,2018-04-29,2018-04-29,1,home,Interest rate:3.47%; monthly payment:773
+6545,A00007721,191880,60,3198,C,2015,12,12,2015-12-12,2015-12-12,1,home,interest rate: 3.97%; monthly payment: 624
+5176,A00011359,192552,24,8023,B,2014,11,12,2014-11-12,2014-11-12,64,home,interest rate:3.67%; Monthly payment:590
+5887,A00001256,192744,36,5354,A,2014,10,3,2014-10-03,2014-10-03,1,home,interest rate:3.95%; Monthly payment:441
+5886,A00009491,192744,36,5354,C,2016,10,31,2016-10-31,2016-10-31,1,home,interest rate:3.97%; Monthly payment:483
+6072,A00007907,193968,36,5388,A,2014,5,10,2014-05-10,2014-05-10,1,home,Interest rate:3.29%; monthly payment:638
+6442,A00005572,194160,48,4045,C,2018,2,8,2018-02-08,2018-02-08,1,home,Interest rate:3.76%; monthly payment:$320
+5281,A00003489,194256,24,8094,C,2017,11,27,2017-11-27,2017-11-27,64,home,Interest rate:3.6%; monthly payment:$335
+7129,A00007859,194280,60,3238,C,2018,3,1,2018-03-01,2018-03-01,1,home,interest rate:3.5%; monthly payment:$719
+6403,A00010049,194880,48,4060,C,2015,12,5,2015-12-05,2015-12-05,1,home,interest rate:3.49%; Monthly payment:$346
+7036,A00004079,194940,36,5415,C,2016,9,25,2016-09-25,2016-09-25,1,home,Interest rate: 3.21%; monthly payment: 781
+6580,A00002361,196080,48,4085,A,2014,5,22,2014-05-22,2014-05-22,1,home,Interest rate:3.69%; Monthly payment:$816
+7171,A00010799,196224,48,4088,C,2018,2,24,2018-02-24,2018-02-24,1,home,interest rate: 3.98%; monthly payment: 124
+5072,A00005395,196800,24,8200,D,2017,4,28,2017-04-28,2017-04-28,64,home,Interest rate:3.48%; Monthly payment:$334
+7226,A00011042,197748,36,5493,A,2014,2,23,2014-02-23,2014-02-23,1,home,Interest rate:3.74%; Monthly payment:$974
+7181,A00000915,197808,24,8242,C,2017,10,2,2017-10-02,2017-10-02,1,home,interest rate:3.56%; monthly payment:$417
+7166,A00009548,198240,24,8260,A,2015,6,24,2015-06-24,2015-06-24,1,home,interest rate: 3.08%; monthly payment: $541
+5450,A00011069,199680,60,3328,C,2014,12,11,2014-12-11,2014-12-11,59,home,interest rate: 3.9%; Monthly payment: 762
+5470,A00001862,200976,48,4187,C,2016,4,15,2016-04-15,2016-04-15,59,home,interest rate: 3.12%; monthly payment: 886
+5312,A00005228,202788,36,5633,C,2016,3,13,2016-03-13,2016-03-13,64,home,Interest rate:3.92%; monthly payment:$570
+6097,A00003907,202848,48,4226,C,2017,8,21,2017-08-21,2017-08-21,1,home,Interest rate:3.18%; Monthly payment:$470
+6468,A00006051,203940,60,3399,C,2017,11,30,2017-11-30,2017-11-30,1,home,interest rate: 3.18%; monthly payment: 279
+5160,A00009017,204000,60,3400,C,2015,12,18,2015-12-18,2015-12-18,64,home,Interest rate:3.4%; monthly payment:191
+5963,A00004631,204780,60,3413,C,2017,9,7,2017-09-07,2017-09-07,1,home,interest rate:3.7%; Monthly payment:373
+5351,A00009263,205200,36,5700,A,2014,12,4,2014-12-04,2014-12-04,59,home,interest rate:3.48%; monthly payment:$267
+5674,A00009828,207264,48,4318,C,2017,6,10,2017-06-10,2017-06-10,1,home,interest rate:3.51%; monthly payment:674
+5126,A00010297,208128,48,4336,B,2014,7,24,2014-07-24,2014-07-24,64,home,interest rate:3.1%; Monthly payment:138
+6647,A00000817,208320,48,4340,A,2014,6,1,2014-06-01,2014-06-01,1,home,interest rate: 3.62%; monthly payment: $963
+7168,A00001498,208332,36,5787,C,2018,7,5,2018-07-05,2018-07-05,1,home,interest rate: 3.57%; Monthly payment: 126
+5334,A00000176,209040,24,8710,C,2018,9,10,2018-09-10,2018-09-10,64,home,interest rate:3.25%; monthly payment:$871
+6120,A00007594,209184,48,4358,A,2014,9,11,2014-09-11,2014-09-11,1,home,interest rate:3.76%; Monthly payment:$543
+5086,A00005215,210384,48,4383,C,2017,7,16,2017-07-16,2017-07-16,64,home,Interest rate: 3.88%; Monthly payment: 998
+7035,A00006505,210744,36,5854,C,2018,7,29,2018-07-29,2018-07-29,1,home,interest rate:3.73%; monthly payment:$204
+6336,A00000002,212400,36,5900,A,2014,3,31,2014-03-31,2014-03-31,1,home,Interest rate: 3.91%; monthly payment: $452
+5823,A00004260,212976,36,5916,C,2018,6,21,2018-06-21,2018-06-21,1,home,interest rate:3.14%; monthly payment:$862
+5989,A00007123,213300,36,5925,C,2016,3,4,2016-03-04,2016-03-04,1,home,interest rate: 3.81%; monthly payment: $220
+7255,A00001978,213300,60,3555,C,2017,6,9,2017-06-09,2017-06-09,1,home,Interest rate: 3.58%; monthly payment: 657
+5369,A00009491,214596,36,5961,C,2017,9,12,2017-09-12,2017-09-12,59,home,Interest rate: 3.96%; Monthly payment: 809
+6861,A00006738,215040,60,3584,C,2018,2,28,2018-02-28,2018-02-28,1,home,interest rate: 3.4%; Monthly payment: $119
+7066,A00008085,215388,36,5983,B,2014,5,2,2014-05-02,2014-05-02,1,home,interest rate:3.4%; Monthly payment:$456
+5128,A00006075,215616,48,4492,D,2016,4,11,2016-04-11,2016-04-11,64,home,interest rate: 3.4%; Monthly payment: $131
+7243,A00009627,217152,36,6032,A,2015,12,4,2015-12-04,2015-12-04,1,home,Interest rate: 3.41%; Monthly payment: $937
+7037,A00006434,218064,48,4543,C,2018,1,3,2018-01-03,2018-01-03,1,home,Interest rate:3.37%; Monthly payment:$986
+5973,A00007099,219456,48,4572,C,2017,11,24,2017-11-24,2017-11-24,1,home,Interest rate:3.68%; Monthly payment:$515
+6660,A00008041,220428,36,6123,C,2017,5,9,2017-05-09,2017-05-09,1,home,Interest rate: 3.25%; Monthly payment: 829
+6568,A00010630,220440,60,3674,C,2018,2,25,2018-02-25,2018-02-25,1,home,Interest rate:3.2%; Monthly payment:806
+6715,A00010001,220620,60,3677,C,2016,5,6,2016-05-06,2016-05-06,1,home,Interest rate: 3.52%; monthly payment: $607
+5876,A00004033,221280,48,4610,C,2015,2,8,2015-02-08,2015-02-08,1,home,interest rate: 3.72%; monthly payment: $279
+6142,A00001862,221880,60,3698,C,2017,1,21,2017-01-21,2017-01-21,1,home,Interest rate:3.08%; monthly payment:$386
+5625,A00006289,222180,60,3703,D,2016,12,15,2016-12-15,2016-12-15,59,home,interest rate: 3.5%; Monthly payment: $361
+6686,A00010005,224604,36,6239,A,2014,8,25,2014-08-25,2014-08-25,1,home,Interest rate:3.53%; monthly payment:$380
+6151,A00008129,225420,60,3757,C,2015,4,25,2015-04-25,2015-04-25,1,home,interest rate: 3.63%; Monthly payment: $932
+6932,A00000854,225504,48,4698,C,2018,6,25,2018-06-25,2018-06-25,1,home,Interest rate:3.75%; monthly payment:$614
+6808,A00002762,227880,36,6330,A,2014,10,12,2014-10-12,2014-10-12,1,home,Interest rate: 3.19%; monthly payment: $602
+6940,A00004550,228276,36,6341,C,2016,11,22,2016-11-22,2016-11-22,1,home,interest rate: 3.52%; Monthly payment: $915
+6738,A00010954,230220,36,6395,B,2014,9,29,2014-09-29,2014-09-29,1,home,Interest rate:3.47%; Monthly payment:411
+5428,A00002622,230220,36,6395,C,2018,12,2,2018-12-02,2018-12-02,59,home,interest rate:3.09%; monthly payment:750
+5051,A00010022,230400,60,3840,C,2017,10,11,2017-10-11,2017-10-11,70,home,interest rate:3.63%; monthly payment:$507
+5520,A00010789,231168,48,4816,C,2018,8,30,2018-08-30,2018-08-30,1,home,interest rate: 3.21%; monthly payment: $995
+7057,A00006792,231696,36,6436,A,2015,10,20,2015-10-20,2015-10-20,1,home,interest rate: 3.61%; Monthly payment: $120
+6178,A00000314,232560,48,4845,C,2015,12,16,2015-12-16,2015-12-16,1,home,Interest rate:3.31%; Monthly payment:175
+6173,A00004127,232560,48,4845,C,2017,1,8,2017-01-08,2017-01-08,1,home,Interest rate:3.13%; monthly payment:$602
+7049,A00007240,233424,36,6484,C,2017,6,24,2017-06-24,2017-06-24,1,home,Interest rate: 3.45%; Monthly payment: $376
+6450,A00006930,234336,48,4882,C,2018,6,10,2018-06-10,2018-06-10,1,home,Interest rate:3.47%; Monthly payment:$315
+6675,A00001389,238716,36,6631,C,2017,11,1,2017-11-01,2017-11-01,1,home,Interest rate: 3.91%; monthly payment: $107
+7088,A00010439,239160,60,3986,C,2017,5,3,2017-05-03,2017-05-03,1,home,Interest rate:3.0%; Monthly payment:$729
+5319,A00001011,239460,60,3991,C,2014,6,23,2014-06-23,2014-06-23,64,home,Interest rate:3.18%; Monthly payment:$699
+6083,A00001247,240528,48,5011,C,2018,3,31,2018-03-31,2018-03-31,1,home,Interest rate:3.71%; Monthly payment:922
+6748,A00006265,240900,60,4015,C,2018,12,8,2018-12-08,2018-12-08,1,home,Interest rate:3.59%; Monthly payment:$250
+6955,A00010105,244368,48,5091,C,2015,11,22,2015-11-22,2015-11-22,1,home,interest rate: 3.71%; monthly payment: $493
+5837,A00008931,244560,60,4076,C,2014,6,29,2014-06-29,2014-06-29,1,home,Interest rate: 3.21%; Monthly payment: $245
+6698,A00005574,247728,48,5161,C,2016,3,10,2016-03-10,2016-03-10,1,home,Interest rate: 3.05%; monthly payment: $622
+6255,A00006148,247920,48,5165,D,2017,2,8,2017-02-08,2017-02-08,1,home,Interest rate: 3.03%; monthly payment: $272
+6254,A00003875,247920,48,5165,C,2017,12,28,2017-12-28,2017-12-28,1,home,Interest rate: 3.03%; Monthly payment: 333
+5310,A00007082,248148,36,6893,A,2015,4,28,2015-04-28,2015-04-28,64,home,Interest rate: 3.98%; Monthly payment: 222
+5350,A00011328,249312,48,5194,C,2016,4,21,2016-04-21,2016-04-21,59,home,Interest rate:3.67%; Monthly payment:533
+7164,A00010738,249792,48,5204,C,2018,8,15,2018-08-15,2018-08-15,1,home,Interest rate:3.4%; Monthly payment:$473
+5060,A00010345,252060,60,4201,D,2014,7,19,2014-07-19,2014-07-19,70,home,Interest rate:3.49%; Monthly payment:315
+5170,A00002055,253200,60,4220,C,2014,1,20,2014-01-20,2014-01-20,64,home,Interest rate: 3.23%; Monthly payment: 425
+5169,A00005358,253200,60,4220,C,2018,9,24,2018-09-24,2018-09-24,64,home,Interest rate: 3.34%; Monthly payment: 686
+5606,A00001698,253512,36,7042,D,2016,8,28,2016-08-28,2016-08-28,18,home,interest rate:3.71%; Monthly payment:623
+5614,A00000303,253560,60,4226,C,2018,9,21,2018-09-21,2018-09-21,18,home,interest rate: 3.21%; Monthly payment: 101
+6012,A00007745,258444,36,7179,C,2016,8,3,2016-08-03,2016-08-03,1,home,Interest rate: 3.65%; Monthly payment: $983
+7104,A00009208,259740,60,4329,A,2013,12,13,2013-12-13,2013-12-13,1,home,interest rate:3.62%; Monthly payment:$486
+7176,A00010857,260028,36,7223,A,2015,10,28,2015-10-28,2015-10-28,1,home,interest rate: 3.46%; monthly payment: 261
+6655,A00009030,260400,60,4340,D,2017,10,17,2017-10-17,2017-10-17,1,home,Interest rate:3.58%; Monthly payment:916
+7122,A00007765,260640,36,7240,D,2017,1,4,2017-01-04,2017-01-04,1,home,Interest rate: 3.38%; monthly payment: 546
+5082,A00002262,262980,60,4383,C,2016,10,24,2016-10-24,2016-10-24,64,home,Interest rate:3.12%; Monthly payment:$792
+6725,A00008566,265320,36,7370,A,2015,6,23,2015-06-23,2015-06-23,1,home,interest rate: 3.48%; monthly payment: 237
+4988,A00007606,265320,36,7370,D,2017,12,6,2017-12-06,2017-12-06,1,home,interest rate: 3.57%; Monthly payment: $573
+6712,A00007181,266220,60,4437,C,2015,10,14,2015-10-14,2015-10-14,1,home,Interest rate:3.41%; Monthly payment:$468
+7147,A00002994,267600,48,5575,C,2018,1,2,2018-01-02,2018-01-02,1,home,Interest rate: 3.14%; monthly payment: 667
+5556,A00005574,268320,60,4472,C,2017,5,19,2017-05-19,2017-05-19,25,home,interest rate: 3.91%; monthly payment: $103
+7167,A00002335,269964,36,7499,C,2018,6,18,2018-06-18,2018-06-18,1,home,interest rate: 3.86%; Monthly payment: 997
+6296,A00009353,270384,48,5633,C,2016,8,6,2016-08-06,2016-08-06,1,home,Interest rate: 3.68%; monthly payment: $859
+6244,A00009790,270648,36,7518,B,2015,1,8,2015-01-08,2015-01-08,1,home,interest rate:3.53%; monthly payment:$594
+5365,A00008688,271260,60,4521,C,2018,7,19,2018-07-19,2018-07-19,59,home,Interest rate:3.08%; Monthly payment:$481
+5719,A00004981,271584,48,5658,C,2017,9,20,2017-09-20,2017-09-20,1,home,Interest rate:3.53%; monthly payment:$920
+6851,A00004803,272220,60,4537,D,2017,6,3,2017-06-03,2017-06-03,1,home,interest rate: 3.98%; monthly payment: $781
+6859,A00008776,272220,60,4537,C,2018,3,7,2018-03-07,2018-03-07,1,home,Interest rate:3.91%; Monthly payment:775
+5568,A00002247,272520,60,4542,C,2014,5,17,2014-05-17,2014-05-17,18,home,interest rate:3.16%; monthly payment:242
+7240,A00010788,274740,60,4579,A,2013,9,6,2013-09-06,2013-09-06,1,home,interest rate: 3.87%; monthly payment: 894
+5644,A00003664,276084,36,7669,C,2018,11,27,2018-11-27,2018-11-27,59,home,Interest rate:3.75%; Monthly payment:509
+6073,A00005837,276300,60,4605,C,2016,11,12,2016-11-12,2016-11-12,1,home,interest rate:3.2%; monthly payment:635
+6232,A00007133,276660,36,7685,B,2014,7,8,2014-07-08,2014-07-08,1,home,Interest rate: 3.44%; Monthly payment: 552
+5593,A00009790,277884,36,7719,D,2016,4,18,2016-04-18,2016-04-18,18,home,interest rate: 3.22%; monthly payment: $544
+6962,A00005912,279072,48,5814,C,2018,4,2,2018-04-02,2018-04-02,1,home,Interest rate: 3.81%; monthly payment: $566
+7295,A00004268,280440,60,4674,C,2018,7,18,2018-07-18,2018-07-18,1,home,interest rate:3.33%; monthly payment:332
+5148,A00000019,284280,60,4738,C,2016,5,29,2016-05-29,2016-05-29,64,home,interest rate:3.59%; monthly payment:601
+6877,A00002334,285240,60,4754,C,2017,6,19,2017-06-19,2017-06-19,1,home,Interest rate:3.21%; monthly payment:$337
+6153,A00007274,285600,60,4760,C,2015,7,25,2015-07-25,2015-07-25,1,home,Interest rate: 3.75%; Monthly payment: 559
+6736,A00005001,288360,60,4806,C,2014,6,14,2014-06-14,2014-06-14,1,home,Interest rate:3.94%; Monthly payment:$445
+6526,A00003418,288468,36,8013,A,2015,1,3,2015-01-03,2015-01-03,1,home,Interest rate: 3.5%; Monthly payment: $603
+6435,A00009633,288720,48,6015,C,2017,6,16,2017-06-16,2017-06-16,1,home,Interest rate: 3.79%; Monthly payment: 483
+6007,A00002236,289920,48,6040,C,2017,8,30,2017-08-30,2017-08-30,1,home,Interest rate:3.62%; Monthly payment:126
+6175,A00000038,290700,60,4845,D,2016,2,21,2016-02-21,2016-02-21,1,home,Interest rate: 3.72%; Monthly payment: 177
+5354,A00000789,290820,60,4847,C,2018,7,14,2018-07-14,2018-07-14,59,home,interest rate: 3.83%; monthly payment: $936
+5469,A00005445,293160,60,4886,C,2017,12,26,2017-12-26,2017-12-26,59,home,interest rate:3.28%; Monthly payment:$564
+5363,A00002912,293880,60,4898,D,2017,4,22,2017-04-22,2017-04-22,59,home,Interest rate:3.54%; Monthly payment:$984
+6350,A00009645,294384,48,6133,C,2017,7,9,2017-07-09,2017-07-09,1,home,Interest rate:3.0%; monthly payment:218
+5395,A00005698,299088,36,8308,B,2014,7,30,2014-07-30,2014-07-30,59,home,interest rate: 3.13%; Monthly payment: $524
+5918,A00007819,300204,36,8339,A,2014,6,4,2014-06-04,2014-06-04,1,home,interest rate: 3.74%; monthly payment: 428
+7001,A00002699,300600,60,5010,C,2017,8,10,2017-08-10,2017-08-10,1,home,interest rate: 3.99%; Monthly payment: 741
+6087,A00010364,300660,60,5011,C,2014,2,27,2014-02-27,2014-02-27,1,home,interest rate:3.0%; monthly payment:$833
+7085,A00002754,305424,48,6363,C,2017,6,19,2017-06-19,2017-06-19,1,home,interest rate: 3.35%; monthly payment: 534
+5758,A00000110,307200,60,5120,D,2017,5,2,2017-05-02,2017-05-02,1,home,Interest rate:3.2%; monthly payment:774
+5145,A00004999,309552,48,6449,C,2015,9,16,2015-09-16,2015-09-16,64,home,Interest rate:3.31%; Monthly payment:362
+6540,A00004794,309600,48,6450,C,2015,12,31,2015-12-31,2015-12-31,1,home,Interest rate:3.8%; monthly payment:144
+6695,A00008523,309660,60,5161,C,2017,6,4,2017-06-04,2017-06-04,1,home,interest rate: 3.11%; Monthly payment: $522
+7050,A00007769,311232,48,6484,C,2017,9,23,2017-09-23,2017-09-23,1,home,Interest rate:3.1%; Monthly payment:375
+7227,A00007437,314520,60,5242,C,2015,10,2,2015-10-02,2015-10-02,1,home,interest rate: 3.76%; monthly payment: 264
+5435,A00006051,314688,48,6556,C,2018,6,1,2018-06-01,2018-06-01,59,home,interest rate: 3.29%; monthly payment: 488
+5724,A00008026,316140,60,5269,D,2015,2,5,2015-02-05,2015-02-05,1,home,interest rate:3.7%; monthly payment:$403
+7292,A00003711,317460,60,5291,C,2018,11,22,2018-11-22,2018-11-22,1,home,Interest rate: 3.41%; Monthly payment: $888
+6028,A00009031,317520,60,5292,C,2017,2,9,2017-02-09,2017-02-09,1,home,Interest rate: 3.64%; monthly payment: $767
+4967,A00009583,318480,60,5308,D,2018,10,14,2018-10-14,2018-10-14,1,home,interest rate:3.82%; Monthly payment:692
+6550,A00005362,320592,48,6679,C,2016,5,18,2016-05-18,2016-05-18,1,home,Interest rate:3.84%; monthly payment:139
+6063,A00007559,320976,48,6687,D,2016,4,25,2016-04-25,2016-04-25,1,home,Interest rate:3.71%; Monthly payment:$189
+5611,A00008261,321180,60,5353,C,2016,11,15,2016-11-15,2016-11-15,18,home,Interest rate:3.96%; Monthly payment:517
+5889,A00008321,321240,60,5354,C,2018,2,9,2018-02-09,2018-02-09,1,home,interest rate: 3.94%; Monthly payment: $784
+6235,A00008564,321360,60,5356,C,2018,4,19,2018-04-19,2018-04-19,1,home,interest rate:3.22%; Monthly payment:910
+6821,A00005422,321936,48,6707,C,2018,9,15,2018-09-15,2018-09-15,1,home,Interest rate:3.13%; Monthly payment:$613
+6038,A00006701,323472,48,6739,A,2014,8,10,2014-08-10,2014-08-10,1,home,interest rate:3.82%; monthly payment:$406
+5865,A00005395,327660,60,5461,C,2018,10,30,2018-10-30,2018-10-30,1,home,interest rate: 3.83%; monthly payment: $155
+7004,A00009006,331560,60,5526,C,2015,3,15,2015-03-15,2015-03-15,1,home,Interest rate:3.49%; Monthly payment:448
+5042,A00007890,331584,48,6908,C,2018,7,12,2018-07-12,2018-07-12,70,home,interest rate:3.89%; monthly payment:878
+6705,A00006930,333648,48,6951,D,2017,7,25,2017-07-25,2017-07-25,1,home,Interest rate: 3.25%; Monthly payment: 315
+5772,A00005912,334620,60,5577,C,2018,3,8,2018-03-08,2018-03-08,1,home,Interest rate:3.16%; Monthly payment:473
+5991,A00008051,335184,48,6983,D,2018,7,27,2018-07-27,2018-07-27,1,home,interest rate: 3.83%; Monthly payment: 385
+5532,A00004794,335280,48,6985,C,2017,5,4,2017-05-04,2017-05-04,29,home,Interest rate: 3.47%; Monthly payment: 778
+7195,A00009731,339168,48,7066,C,2018,4,23,2018-04-23,2018-04-23,1,home,Interest rate: 3.08%; Monthly payment: 747
+6938,A00010520,341280,60,5688,C,2017,3,10,2017-03-10,2017-03-10,1,home,Interest rate:3.99%; monthly payment:118
+5418,A00009377,347952,48,7249,C,2015,1,16,2015-01-16,2015-01-16,59,home,Interest rate:3.96%; monthly payment:$900
+7100,A00008159,348120,60,5802,C,2017,12,31,2017-12-31,2017-12-31,1,home,interest rate: 3.77%; monthly payment: $715
+6118,A00004995,349392,48,7279,C,2017,10,4,2017-10-04,2017-10-04,1,home,interest rate:3.57%; monthly payment:$903
+4989,A00001772,352704,48,7348,C,2018,12,5,2018-12-05,2018-12-05,1,home,interest rate:3.99%; monthly payment:$219
+5063,A00002545,357840,48,7455,D,2017,7,10,2017-07-10,2017-07-10,70,home,Interest rate: 3.98%; monthly payment: 598
+6006,A00003418,359760,60,5996,C,2016,11,15,2016-11-15,2016-11-15,1,home,interest rate:3.7%; monthly payment:392
+5494,A00008899,360000,48,7500,C,2016,6,13,2016-06-13,2016-06-13,46,home,interest rate:3.77%; monthly payment:983
+6239,A00006792,360864,48,7518,D,2017,9,28,2017-09-28,2017-09-28,1,home,Interest rate:3.74%; Monthly payment:350
+6109,A00009859,368880,60,6148,C,2016,6,3,2016-06-03,2016-06-03,1,home,Interest rate:3.85%; Monthly payment:$573
+5041,A00003293,369000,60,6150,C,2017,7,11,2017-07-11,2017-07-11,70,home,Interest rate:3.96%; monthly payment:568
+6585,A00001808,372120,60,6202,C,2016,10,29,2016-10-29,2016-10-29,1,home,Interest rate: 3.87%; Monthly payment: $181
+6926,A00004467,374760,60,6246,C,2018,2,7,2018-02-07,2018-02-07,1,home,Interest rate:3.78%; Monthly payment:350
+5563,A00007606,380160,60,6336,C,2016,2,29,2016-02-29,2016-02-29,18,home,Interest rate:3.97%; monthly payment:$363
+5174,A00009179,385104,48,8023,C,2017,6,13,2017-06-13,2017-06-13,64,home,interest rate: 3.54%; monthly payment: 991
+7209,A00007859,385560,60,6426,D,2017,11,30,2017-11-30,2017-11-30,1,home,interest rate:3.51%; monthly payment:251
+5318,A00009869,385584,48,8033,C,2018,9,30,2018-09-30,2018-09-30,64,home,interest rate:3.98%; monthly payment:261
+5282,A00001329,388512,48,8094,D,2016,8,24,2016-08-24,2016-08-24,64,home,interest rate: 3.73%; monthly payment: $425
+5236,A00004851,389136,48,8107,C,2017,9,15,2017-09-15,2017-09-15,64,home,interest rate: 3.83%; monthly payment: 947
+5589,A00004626,390000,48,8125,C,2018,6,5,2018-06-05,2018-06-05,18,home,interest rate: 3.6%; monthly payment: $970
+6554,A00009201,390096,48,8127,C,2017,1,29,2017-01-29,2017-01-29,1,home,Interest rate: 3.51%; monthly payment: $362
+6338,A00009510,390660,60,6511,C,2017,8,24,2017-08-24,2017-08-24,1,home,interest rate:3.78%; Monthly payment:$707
+7271,A00001583,392460,60,6541,C,2016,10,2,2016-10-02,2016-10-02,1,home,interest rate:3.47%; monthly payment:703
+5329,A00009627,396120,60,6602,C,2016,10,16,2016-10-16,2016-10-16,64,home,interest rate: 3.05%; Monthly payment: $445
+6272,A00003608,398640,60,6644,C,2014,12,20,2014-12-20,2014-12-20,1,home,Interest rate: 3.71%; monthly payment: 602
+6055,A00002279,399120,60,6652,C,2017,4,28,2017-04-28,2017-04-28,1,home,Interest rate:3.93%; Monthly payment:$541
+5938,A00010807,402000,60,6700,C,2016,8,25,2016-08-25,2016-08-25,1,home,interest rate: 3.31%; monthly payment: 589
+5830,A00007424,405780,60,6763,C,2017,8,28,2017-08-28,2017-08-28,1,home,interest rate: 3.68%; monthly payment: $628
+6237,A00009828,407952,48,8499,D,2018,1,6,2018-01-06,2018-01-06,1,home,interest rate:3.28%; monthly payment:$633
+5419,A00010650,415800,60,6930,C,2017,2,5,2017-02-05,2017-02-05,59,home,Interest rate: 3.89%; monthly payment: $983
+6704,A00008320,417060,60,6951,C,2015,6,1,2015-06-01,2015-06-01,1,home,Interest rate:3.04%; monthly payment:$764
+7154,A00007636,417600,60,6960,C,2016,12,5,2016-12-05,2016-12-05,1,home,interest rate:3.32%; Monthly payment:785
+7304,A00005952,419880,60,6998,C,2015,10,29,2015-10-29,2015-10-29,1,home,interest rate: 3.35%; Monthly payment: 639
+7101,A00002419,421008,48,8771,C,2016,11,18,2016-11-18,2016-11-18,1,home,Interest rate:3.97%; Monthly payment:$918
+5491,A00002343,428784,48,8933,C,2018,2,13,2018-02-13,2018-02-13,46,home,Interest rate: 3.59%; monthly payment: 657
+5561,A00002064,437460,60,7291,C,2018,8,29,2018-08-29,2018-08-29,18,home,Interest rate: 3.55%; monthly payment: $842
+5725,A00004585,444864,48,9268,C,2016,7,23,2016-07-23,2016-07-23,1,home,Interest rate:3.19%; Monthly payment:694
+5731,A00002116,460980,60,7683,D,2017,11,5,2017-11-05,2017-11-05,1,home,interest rate:3.49%; Monthly payment:$687
+6228,A00007184,464520,60,7742,B,2013,12,1,2013-12-01,2013-12-01,1,home,Interest rate:3.9%; Monthly payment:$636
+5970,A00009201,465072,48,9689,C,2015,7,9,2015-07-09,2015-07-09,1,home,interest rate:3.59%; monthly payment:$955
+5976,A00004127,465504,48,9698,D,2017,12,27,2017-12-27,2017-12-27,1,home,interest rate:3.3%; Monthly payment:$689
+5486,A00011021,466608,48,9721,C,2017,6,13,2017-06-13,2017-06-13,46,home,interest rate: 3.01%; monthly payment: 992
+5043,A00010439,468060,60,7801,C,2017,12,25,2017-12-25,2017-12-25,70,home,Interest rate:3.21%; Monthly payment:$919
+6625,A00008772,473280,60,7888,D,2017,9,7,2017-09-07,2017-09-07,1,home,Interest rate: 3.37%; Monthly payment: $922
+6415,A00003112,475680,48,9910,C,2017,2,12,2017-02-12,2017-02-12,1,home,Interest rate:3.46%; monthly payment:747
+7142,A00010940,482940,60,8049,D,2014,12,19,2014-12-19,2014-12-19,1,home,interest rate:3.79%; monthly payment:$633
+6436,A00006083,495180,60,8253,C,2018,5,22,2018-05-22,2018-05-22,1,home,interest rate:3.19%; Monthly payment:387
+5569,A00007454,504000,60,8400,C,2018,1,20,2018-01-20,2018-01-20,18,home,interest rate:3.98%; Monthly payment:851
+5132,A00007997,538500,60,8975,C,2015,2,17,2015-02-17,2015-02-17,64,home,interest rate:3.66%; monthly payment:$960
+5447,A00002361,541200,60,9020,D,2017,11,12,2017-11-12,2017-11-12,59,home,interest rate:3.83%; Monthly payment:$634
+6791,A00003906,566640,60,9444,C,2018,1,23,2018-01-23,2018-01-23,1,home,interest rate:3.04%; monthly payment:161
+6534,A00003967,590820,60,9847,C,2017,10,19,2017-10-19,2017-10-19,1,home,Interest rate: 3.18%; Monthly payment: $814

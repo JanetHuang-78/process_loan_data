@@ -1,0 +1,4 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6202,A00010404,65184,12,5432,A,2014,4,18,2014-04-18,2014-04-18,1,home_improvement,Interest rate:3.95%; monthly payment:342
+6103,A00005164,149340,60,2489,C,2014,4,7,2014-04-07,2014-04-07,1,home,interest rate:3.3%; Monthly payment:$403
+7055,A00004259,167100,60,2785,C,2014,4,6,2014-04-06,2014-04-06,1,home,Interest rate:3.37%; Monthly payment:582

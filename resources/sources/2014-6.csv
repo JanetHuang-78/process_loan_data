@@ -1,0 +1,14 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6903,A00010280,52128,24,2172,A,2014,6,4,2014-06-04,2014-06-04,1,debt_consolidation,na
+7249,A00009153,69360,48,1445,A,2014,6,12,2014-06-12,2014-06-12,1,home,interest rate:3.55%; monthly payment:191
+6642,A00000276,77640,12,6470,A,2014,6,5,2014-06-05,2014-06-05,1,debt_consolidation,Interest rate:3.11%; monthly payment:$499
+6210,A00007907,87216,48,1817,B,2014,6,6,2014-06-06,2014-06-06,1,home,Interest rate: 3.03%; monthly payment: 168
+6279,A00010215,87360,24,3640,A,2014,6,7,2014-06-07,2014-06-07,1,home,interest rate:3.54%; monthly payment:$746
+6596,A00005735,91584,24,3816,A,2014,6,25,2014-06-25,2014-06-25,1,home,interest rate: 3.46%; monthly payment: $606
+7137,A00008377,151560,24,6315,A,2014,6,3,2014-06-03,2014-06-03,1,home,interest rate: 3.46%; Monthly payment: $972
+6112,A00010068,174744,24,7281,B,2014,6,17,2014-06-17,2014-06-17,1,home,interest rate: 3.36%; Monthly payment: $807
+6647,A00000817,208320,48,4340,A,2014,6,1,2014-06-01,2014-06-01,1,home,interest rate: 3.62%; monthly payment: $963
+5319,A00001011,239460,60,3991,C,2014,6,23,2014-06-23,2014-06-23,64,home,Interest rate:3.18%; Monthly payment:$699
+5837,A00008931,244560,60,4076,C,2014,6,29,2014-06-29,2014-06-29,1,home,Interest rate: 3.21%; Monthly payment: $245
+6736,A00005001,288360,60,4806,C,2014,6,14,2014-06-14,2014-06-14,1,home,Interest rate:3.94%; Monthly payment:$445
+5918,A00007819,300204,36,8339,A,2014,6,4,2014-06-04,2014-06-04,1,home,na

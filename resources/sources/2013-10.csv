@@ -1,0 +1,2 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+7235,A00007713,154416,48,3217,A,2013,10,13,2013-10-13,2013-10-13,1,home,interest rate: 3.25%; Monthly payment: $744

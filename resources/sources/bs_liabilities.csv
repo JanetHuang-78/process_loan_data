@@ -1,0 +1,12 @@
+﻿field,account,amount
+Account payable,Accounts payable and accrued expenses,300
+Accrued taxes,Accounts payable and accrued expenses,100
+Short term borrowings,other current liabilities,1500
+Current portion of LT debt,Loans payable and current portion long-term debt  [H],30
+Misc ST liabilities,other current liabilities,150
+Other payable ,other current liabilities,40
+Long term borrowings,Long-term debt  [G],830
+Long term lease ,Long-term debt  [G],170
+Deferred income taxes,Deferred income taxes liabilities,200
+Accrued liabilities,Other long term liabilities,100
+Other LT liabilities,Other long term liabilities,100

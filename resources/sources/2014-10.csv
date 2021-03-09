@@ -1,0 +1,9 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6229,A00009677,11736,24,489,A,2014,10,2,2014-10-02,2014-10-02,1,car,interest rate: 3.6%; monthly payment: 241
+6297,A00010215,17508,12,1459,A,2014,10,25,2014-10-25,2014-10-25,1,car,interest rate:3.13%; monthly payment:940
+5161,A00003460,98184,24,4091,A,2014,10,28,2014-10-28,2014-10-28,64,home,interest rate:3.34%; Monthly payment:$770
+5390,A00007890,170256,24,7094,A,2014,10,30,2014-10-30,2014-10-30,59,home,interest rate: 3.66%; Monthly payment: 241
+5887,A00001256,192744,36,5354,A,2014,10,3,2014-10-03,2014-10-03,1,home,interest rate:3.95%; Monthly payment:441
+6808,A00002762,227880,36,6330,A,2014,10,12,2014-10-12,2014-10-12,1,home,Interest rate: 3.19%; monthly payment: $602
+
+

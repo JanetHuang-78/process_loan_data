@@ -1,0 +1,15 @@
+field,account,amount
+Cash,Cash and cash equivalents  [D],800
+Marketable securities,Short-term investments,200
+Account receivable,Accounts receivable  [I],500
+Note receivable,Accounts receivable  [I],100
+Raw materials,Inventories  [C],600
+Work in process,Inventories  [C],200
+Finished goods,Inventories  [C],100
+Other inventory,Inventories  [C],50
+PP&E,"Property, plant and equipment at cost",1000
+Accumulated Depreciation,Less accumulated depreciation,400
+Deferred tax assets,Deferred income taxes,20
+Goodwill,Other assets,100
+Investment in affiliates,Other assets,90
+Other long term assents,Other assets,100

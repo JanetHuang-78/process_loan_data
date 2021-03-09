@@ -1,0 +1,5 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+7008,A00010297,36168,12,3014,A,2015,9,22,2015-09-22,2015-09-22,1,debt_consolidation,interest rate:3.03%; monthly payment:340
+6726,A00005952,85860,60,1431,C,2015,9,3,2015-09-03,2015-09-03,1,home,interest rate: 3.69%; monthly payment: 919
+6933,A00006157,188688,48,3931,C,2015,9,9,2015-09-09,2015-09-09,1,home,Interest rate: 3.08%; monthly payment: $290
+5145,A00004999,309552,48,6449,C,2015,9,16,2015-09-16,2015-09-16,64,home,Interest rate:3.31%; Monthly payment:362

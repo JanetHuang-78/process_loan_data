@@ -1,0 +1,16 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6242,A00002762,26208,36,728,C,2017,10,22,2017-10-22,2017-10-22,1,debt_consolidation,Interest rate:3.21%; monthly payment:592
+7264,A00008411,44940,12,3745,A,2017,10,7,2017-10-07,2017-10-07,1,debt_consolidation,Interest rate: 3.45%; Monthly payment: $231
+5343,A00005269,44952,24,1873,C,2017,10,8,2017-10-08,2017-10-08,64,debt_consolidation,interest rate:3.77%; Monthly payment:889
+7242,A00001843,48096,24,2004,C,2017,10,23,2017-10-23,2017-10-23,1,debt_consolidation,Interest rate:3.62%; monthly payment:426
+5681,A00002872,68664,24,2861,C,2017,10,20,2017-10-20,2017-10-20,1,home,interest rate:3.53%; Monthly payment:$929
+6113,A00008919,78696,36,2186,C,2017,10,1,2017-10-01,2017-10-01,1,debt_consolidation,Interest rate:3.48%; monthly payment:$524
+6605,A00006473,79344,48,1653,C,2017,10,14,2017-10-14,2017-10-14,1,debt_consolidation,interest rate:3.2%; monthly payment:$665
+7277,A00004825,89280,12,7440,A,2017,10,24,2017-10-24,2017-10-24,1,home,interest rate:3.07%; Monthly payment:$266
+5779,A00011138,107352,36,2982,C,2017,10,14,2017-10-14,2017-10-14,1,home,Interest rate:3.25%; monthly payment:$969
+6607,A00007824,153144,36,4254,C,2017,10,21,2017-10-21,2017-10-21,1,home,interest rate:3.07%; monthly payment:565
+7181,A00000915,197808,24,8242,C,2017,10,2,2017-10-02,2017-10-02,1,home,interest rate:3.56%; monthly payment:$417
+5051,A00010022,230400,60,3840,C,2017,10,11,2017-10-11,2017-10-11,70,home,interest rate:3.63%; monthly payment:$507
+6655,A00009030,260400,60,4340,D,2017,10,17,2017-10-17,2017-10-17,1,home,Interest rate:3.58%; Monthly payment:916
+6118,A00004995,349392,48,7279,C,2017,10,4,2017-10-04,2017-10-04,1,home,interest rate:3.57%; monthly payment:$903
+6534,A00003967,590820,60,9847,C,2017,10,19,2017-10-19,2017-10-19,1,home,Interest rate: 3.18%; Monthly payment: $814

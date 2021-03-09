@@ -1,0 +1,7 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+5922,A00000790,20220,12,1685,A,2015,8,5,2015-08-05,2015-08-05,1,car,Interest rate:3.94%; Monthly payment:$957
+5980,A00001967,21396,12,1783,A,2015,8,18,2015-08-18,2015-08-18,1,car,Interest rate:3.26%; Monthly payment:956
+6764,A00007607,33984,48,708,C,2015,8,26,2015-08-26,2015-08-26,1,debt_consolidation,Interest rate:3.58%; monthly payment:$835
+5693,A00010022,44088,24,1837,A,2015,8,1,2015-08-01,2015-08-01,1,debt_consolidation,Interest rate:3.39%; Monthly payment:917
+5237,A00006649,45336,24,1889,A,2015,8,29,2015-08-29,2015-08-29,64,debt_consolidation,interest rate: 3.84%; monthly payment: 133
+5959,A00001247,107640,24,4485,A,2015,8,11,2015-08-11,2015-08-11,1,home,Interest rate: 3.69%; Monthly payment: $179

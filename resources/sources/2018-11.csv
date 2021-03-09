@@ -1,0 +1,9 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+6852,A00008558,16032,48,334,C,2018,11,10,2018-11-10,2018-11-10,1,car,Interest rate: 3.28%; Monthly payment: $846
+5841,A00008225,41988,12,3499,C,2018,11,4,2018-11-04,2018-11-04,1,debt_consolidation,Interest rate:3.49%; Monthly payment:765
+5526,A00009140,69624,36,1934,C,2018,11,8,2018-11-08,2018-11-08,1,home,interest rate: 3.55%; monthly payment: 161
+5036,A00005991,91248,48,1901,C,2018,11,25,2018-11-25,2018-11-25,70,home,Interest rate:3.02%; Monthly payment:609
+6168,A00000344,99216,36,2756,C,2018,11,21,2018-11-21,2018-11-21,1,home,interest rate:3.91%; Monthly payment:552
+6469,A00000544,99744,24,4156,C,2018,11,17,2018-11-17,2018-11-17,1,home,interest rate:3.04%; monthly payment:$664
+5644,A00003664,276084,36,7669,C,2018,11,27,2018-11-27,2018-11-27,59,home,Interest rate:3.75%; Monthly payment:509
+7292,A00003711,317460,60,5291,C,2018,11,22,2018-11-22,2018-11-22,1,home,Interest rate: 3.41%; Monthly payment: $888

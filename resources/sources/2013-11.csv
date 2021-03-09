@@ -1,0 +1,4 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+7121,A00006434,21924,36,609,A,2013,11,10,2013-11-10,2013-11-10,1,debt_consolidation,Interest rate: 3.16%; monthly payment: 286
+6077,A00004415,79608,24,3317,A,2013,11,22,2013-11-22,2013-11-22,1,home_improvement,interest rate:3.37%; monthly payment:$907
+5997,A00002218,117024,24,4876,A,2013,11,4,2013-11-04,2013-11-04,1,home,interest rate: 3.54%; Monthly payment: $136

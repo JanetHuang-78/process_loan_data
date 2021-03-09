@@ -1,0 +1,11 @@
+loan_id,customer_id,amount,duration,payments,status,year,month,day,date,fulldate,location,purpose,comments
+5599,A00004746,15420,12,1285,A,2015,3,21,2015-03-21,2015-03-21,18,car,Interest rate:3.85%; monthly payment:$887
+6227,A00010280,28248,24,1177,A,2015,3,4,2015-03-04,2015-03-04,1,debt_consolidation,interest rate: 3.34%; Monthly payment: $262
+6546,A00001498,31728,24,1322,A,2015,3,27,2015-03-27,2015-03-27,1,home_improvement,interest rate:3.85%; Monthly payment:$534
+6737,A00008026,76680,24,3195,A,2015,3,11,2015-03-11,2015-03-11,1,home,Interest rate:3.38%; monthly payment:$161
+5208,A00003143,99696,48,2077,D,2015,3,16,2015-03-16,2015-03-16,64,home,interest rate: 3.9%; monthly payment: 575
+6169,A00009731,103680,60,1728,D,2015,3,16,2015-03-16,2015-03-16,1,home,interest rate:3.31%; Monthly payment:$319
+6694,A00006555,134784,24,5616,A,2015,3,19,2015-03-19,2015-03-19,1,home,interest rate:3.64%; monthly payment:$687
+7241,A00009138,168984,24,7041,B,2015,3,4,2015-03-04,2015-03-04,1,home,interest rate:3.96%; Monthly payment:294
+5414,A00004994,185952,48,3874,C,2015,3,29,2015-03-29,2015-03-29,59,home,Interest rate:3.1%; monthly payment:100
+7004,A00009006,331560,60,5526,C,2015,3,15,2015-03-15,2015-03-15,1,home,Interest rate:3.49%; Monthly payment:448
